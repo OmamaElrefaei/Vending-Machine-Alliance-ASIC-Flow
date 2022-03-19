@@ -1,0 +1,203 @@
+-- VHDL data flow description generated from `vending_machine_fb`
+--		date : Thu Mar 17 18:52:23 2022
+
+
+-- Entity Declaration
+
+ENTITY vending_machine_fb IS
+  PORT (
+  change100 : out BIT;	-- change100
+  change50 : out BIT;	-- change50
+  change25 : out BIT;	-- change25
+  drink : out bit_vector(1 DOWNTO 0) ;	-- drink
+  piasters : in bit_vector(1 DOWNTO 0) ;	-- piasters
+  cancel : in BIT;	-- cancel
+  juice : in BIT;	-- juice
+  soft_drink : in BIT;	-- soft_drink
+  reset : in BIT;	-- reset
+  vss : in BIT;	-- vss
+  vdd : in BIT;	-- vdd
+  ck : in BIT	-- ck
+  );
+END vending_machine_fb;
+
+
+-- Architecture Declaration
+
+ARCHITECTURE behaviour_data_flow OF vending_machine_fb IS
+  SIGNAL vending_machine_cs : REG_VECTOR(2 DOWNTO 0) REGISTER;	-- vending_machine_cs
+  SIGNAL not_aux12 : BIT;		-- not_aux12
+  SIGNAL not_aux0 : BIT;		-- not_aux0
+  SIGNAL o2_x2_sig : BIT;		-- o2_x2_sig
+  SIGNAL a2_x2_2_sig : BIT;		-- a2_x2_2_sig
+  SIGNAL a2_x2_sig : BIT;		-- a2_x2_sig
+  SIGNAL not_aux7 : BIT;		-- not_aux7
+  SIGNAL not_aux2 : BIT;		-- not_aux2
+  SIGNAL not_aux9 : BIT;		-- not_aux9
+  SIGNAL na2_x1_sig : BIT;		-- na2_x1_sig
+  SIGNAL na2_x1_2_sig : BIT;		-- na2_x1_2_sig
+  SIGNAL na4_x1_sig : BIT;		-- na4_x1_sig
+  SIGNAL ao2o22_x2_sig : BIT;		-- ao2o22_x2_sig
+  SIGNAL not_vending_machine_ns_s50 : BIT;		-- not_vending_machine_ns_s50
+  SIGNAL not_vending_machine_cs_s0 : BIT;		-- not_vending_machine_cs_s0
+  SIGNAL not_vending_machine_cs_s100 : BIT;		-- not_vending_machine_cs_s100
+  SIGNAL not_aux10 : BIT;		-- not_aux10
+  SIGNAL not_vending_machine_cs : BIT_VECTOR(0 DOWNTO 0);	-- not_vending_machine_cs
+  SIGNAL not_aux1 : BIT;		-- not_aux1
+  SIGNAL not_vending_machine_cs_s25 : BIT;		-- not_vending_machine_cs_s25
+  SIGNAL not_aux14 : BIT;		-- not_aux14
+  SIGNAL not_vending_machine_cs_s50 : BIT;		-- not_vending_machine_cs_s50
+  SIGNAL not_aux13 : BIT;		-- not_aux13
+  SIGNAL not_cancel : BIT;		-- not_cancel
+  SIGNAL not_piasters : BIT_VECTOR(1 DOWNTO 0);	-- not_piasters
+  SIGNAL aux14 : BIT;		-- aux14
+  SIGNAL aux13 : BIT;		-- aux13
+  SIGNAL aux10 : BIT;		-- aux10
+  SIGNAL aux0 : BIT;		-- aux0
+  SIGNAL vending_machine_cs_s50 : BIT;		-- vending_machine_cs_s50
+  SIGNAL ao2o22_x2_2_sig : BIT;		-- ao2o22_x2_2_sig
+  SIGNAL no2_x1_sig : BIT;		-- no2_x1_sig
+  SIGNAL na3_x1_sig : BIT;		-- na3_x1_sig
+  SIGNAL noa22_x1_sig : BIT;		-- noa22_x1_sig
+  SIGNAL o2_x2_2_sig : BIT;		-- o2_x2_2_sig
+  SIGNAL a2_x2_3_sig : BIT;		-- a2_x2_3_sig
+  SIGNAL o3_x2_sig : BIT;		-- o3_x2_sig
+  SIGNAL oa22_x2_2_sig : BIT;		-- oa22_x2_2_sig
+  SIGNAL oa22_x2_sig : BIT;		-- oa22_x2_sig
+  SIGNAL a4_x2_sig : BIT;		-- a4_x2_sig
+  SIGNAL no2_x1_2_sig : BIT;		-- no2_x1_2_sig
+  SIGNAL o3_x2_2_sig : BIT;		-- o3_x2_2_sig
+  SIGNAL a2_x2_4_sig : BIT;		-- a2_x2_4_sig
+  SIGNAL xr2_x1_sig : BIT;		-- xr2_x1_sig
+  SIGNAL o3_x2_3_sig : BIT;		-- o3_x2_3_sig
+  SIGNAL oa2ao222_x2_sig : BIT;		-- oa2ao222_x2_sig
+  SIGNAL noa22_x1_2_sig : BIT;		-- noa22_x1_2_sig
+  SIGNAL a2_x2_5_sig : BIT;		-- a2_x2_5_sig
+  SIGNAL a2_x2_6_sig : BIT;		-- a2_x2_6_sig
+  SIGNAL o4_x2_sig : BIT;		-- o4_x2_sig
+  SIGNAL oa22_x2_3_sig : BIT;		-- oa22_x2_3_sig
+  SIGNAL a2_x2_7_sig : BIT;		-- a2_x2_7_sig
+  SIGNAL no2_x1_3_sig : BIT;		-- no2_x1_3_sig
+  SIGNAL no2_x1_4_sig : BIT;		-- no2_x1_4_sig
+  SIGNAL na3_x1_2_sig : BIT;		-- na3_x1_2_sig
+  SIGNAL na2_x1_3_sig : BIT;		-- na2_x1_3_sig
+  SIGNAL o3_x2_4_sig : BIT;		-- o3_x2_4_sig
+  SIGNAL noa22_x1_3_sig : BIT;		-- noa22_x1_3_sig
+  SIGNAL inv_x2_sig : BIT;		-- inv_x2_sig
+  SIGNAL inv_x2_2_sig : BIT;		-- inv_x2_2_sig
+  SIGNAL inv_x2_3_sig : BIT;		-- inv_x2_3_sig
+  SIGNAL inv_x2_4_sig : BIT;		-- inv_x2_4_sig
+  SIGNAL mbk_buf_not_vending_machine_cs_s50 : BIT;		-- mbk_buf_not_vending_machine_cs_s50
+
+BEGIN
+  mbk_buf_not_vending_machine_cs_s50 <= not_vending_machine_cs_s50;
+  inv_x2_4_sig <= NOT(soft_drink);
+  inv_x2_3_sig <= NOT(juice);
+  inv_x2_2_sig <= NOT(not_vending_machine_cs_s100);
+  inv_x2_sig <= NOT(not_aux12);
+  noa22_x1_3_sig <= NOT(((o3_x2_4_sig AND not_aux0) OR not_cancel));
+  o3_x2_4_sig <= ((not_piasters(1) OR not_aux2) OR not_aux1);
+  na2_x1_3_sig <= NOT((not_vending_machine_cs_s25 AND 
+not_vending_machine_cs(0)));
+  na3_x1_2_sig <= NOT(((no2_x1_4_sig AND not_vending_machine_cs_s25
+) AND not_vending_machine_cs(0)));
+  no2_x1_4_sig <= NOT((not_cancel OR not_aux1));
+  no2_x1_3_sig <= NOT((not_aux12 OR 
+mbk_buf_not_vending_machine_cs_s50));
+  a2_x2_7_sig <= (mbk_buf_not_vending_machine_cs_s50 AND 
+not_vending_machine_cs(0));
+  oa22_x2_3_sig <= ((not_aux0 AND not_aux9) OR not_cancel);
+  o4_x2_sig <= (((not_aux10 OR not_piasters(1)) OR 
+not_vending_machine_cs_s100) OR a2_x2_6_sig);
+  a2_x2_6_sig <= (not_piasters(0) AND not_aux1);
+  a2_x2_5_sig <= (not_aux0 AND not_aux1);
+  noa22_x1_2_sig <= NOT(((oa2ao222_x2_sig AND a2_x2_4_sig) OR reset));
+  oa2ao222_x2_sig <= ((not_vending_machine_cs_s25 AND not_aux13) OR (
+o3_x2_3_sig AND (not_aux13 OR not_vending_machine_cs_s0)));
+  o3_x2_3_sig <= ((cancel OR not_aux1) OR xr2_x1_sig);
+  xr2_x1_sig <= (piasters(1) XOR piasters(0));
+  a2_x2_4_sig <= (not_vending_machine_ns_s50 AND o3_x2_2_sig);
+  o3_x2_2_sig <= ((not_aux9 OR not_cancel) OR 
+not_vending_machine_cs_s100);
+  no2_x1_2_sig <= NOT((reset OR a4_x2_sig));
+  a4_x2_sig <= (((oa22_x2_sig AND o3_x2_sig) AND o2_x2_2_sig) 
+AND not_vending_machine_ns_s50);
+  oa22_x2_sig <= ((not_vending_machine_cs(0) AND not_piasters(1)) 
+OR oa22_x2_2_sig);
+  oa22_x2_2_sig <= ((not_vending_machine_cs_s0 AND piasters(1)) OR 
+not_piasters(0));
+  o3_x2_sig <= ((not_piasters(1) OR 
+mbk_buf_not_vending_machine_cs_s50) OR a2_x2_3_sig);
+  a2_x2_3_sig <= (piasters(0) AND not_vending_machine_cs_s0);
+  o2_x2_2_sig <= (not_vending_machine_cs_s100 OR aux10);
+  noa22_x1_sig <= NOT(((na3_x1_sig AND ao2o22_x2_2_sig) OR reset));
+  na3_x1_sig <= NOT(((not_aux13 AND no2_x1_sig) AND 
+vending_machine_cs(0)));
+  no2_x1_sig <= NOT((cancel OR not_aux1));
+  ao2o22_x2_2_sig <= ((not_aux14 OR not_vending_machine_cs_s25) AND (
+mbk_buf_not_vending_machine_cs_s50 OR not_aux13));
+  vending_machine_cs_s50 <= (vending_machine_cs(2) AND vending_machine_cs(1));
+  aux0 <= NOT((piasters(1) OR piasters(0)));
+  aux10 <= (cancel OR not_aux1);
+  aux13 <= NOT((piasters(1) OR not_piasters(0)));
+  aux14 <= NOT((piasters(0) OR not_piasters(1)));
+  not_piasters (0) <= NOT(piasters(0));
+  not_piasters (1) <= NOT(piasters(1));
+  not_cancel <= NOT(cancel);
+  not_aux13 <= NOT(aux13);
+  not_vending_machine_cs_s50 <= NOT(vending_machine_cs_s50);
+  not_aux14 <= NOT(aux14);
+  not_vending_machine_cs_s25 <= (NOT(vending_machine_cs(2)) OR 
+vending_machine_cs(1));
+  not_aux1 <= (soft_drink OR juice);
+  not_vending_machine_cs (0) <= NOT(vending_machine_cs(0));
+  not_aux10 <= NOT(aux10);
+  not_vending_machine_cs_s100 <= (NOT(vending_machine_cs(1)) OR 
+vending_machine_cs(2));
+  not_vending_machine_cs_s0 <= ((vending_machine_cs(2) OR vending_machine_cs(1))
+ OR vending_machine_cs(0));
+  not_vending_machine_ns_s50 <= (ao2o22_x2_sig AND na4_x1_sig);
+  ao2o22_x2_sig <= ((not_aux13 OR not_vending_machine_cs_s25) AND (
+not_vending_machine_cs_s0 OR not_aux14));
+  na4_x1_sig <= NOT((((na2_x1_2_sig AND not_aux10) AND na2_x1_sig
+) AND vending_machine_cs_s50));
+  na2_x1_2_sig <= NOT((not_vending_machine_cs_s0 AND aux14));
+  na2_x1_sig <= NOT((not_vending_machine_cs_s25 AND aux13));
+  not_aux9 <= ((not_piasters(1) OR not_piasters(0)) OR not_aux1
+);
+  not_aux2 <= (not_piasters(0) AND not_vending_machine_cs(0));
+  not_aux7 <= ((a2_x2_sig OR o2_x2_sig) AND 
+not_vending_machine_cs_s100);
+  a2_x2_sig <= (not_vending_machine_cs(0) AND a2_x2_2_sig);
+  a2_x2_2_sig <= (not_vending_machine_cs_s25 AND 
+not_vending_machine_cs_s50);
+  o2_x2_sig <= (not_piasters(1) OR not_aux2);
+  not_aux0 <= NOT(aux0);
+  not_aux12 <= ((not_piasters(1) OR not_piasters(0)) OR 
+not_aux10);
+  label0 : BLOCK (NOT(((ck AND NOT((ck'STABLE))) XOR '1')) = '1')
+  BEGIN
+    vending_machine_cs (0) <= GUARDED noa22_x1_sig;
+  END BLOCK label0;
+  label1 : BLOCK (NOT(((ck AND NOT((ck'STABLE))) XOR '1')) = '1')
+  BEGIN
+    vending_machine_cs (1) <= GUARDED no2_x1_2_sig;
+  END BLOCK label1;
+  label2 : BLOCK (NOT(((ck AND NOT((ck'STABLE))) XOR '1')) = '1')
+  BEGIN
+    vending_machine_cs (2) <= GUARDED noa22_x1_2_sig;
+  END BLOCK label2;
+
+change100 <= NOT(((a2_x2_5_sig OR not_aux7) OR not_cancel));
+
+change50 <= NOT(((a2_x2_7_sig OR oa22_x2_3_sig) AND o4_x2_sig
+));
+
+change25 <= (((inv_x2_2_sig AND inv_x2_sig) OR (
+noa22_x1_3_sig AND na2_x1_3_sig)) OR (na3_x1_2_sig AND 
+no2_x1_3_sig));
+
+drink (0) <= NOT(((aux0 OR not_aux7) OR inv_x2_3_sig));
+
+drink (1) <= NOT(((aux0 OR not_aux7) OR inv_x2_4_sig));
+END;

@@ -1,0 +1,7 @@
+# Encoding figure "vending_machine"
+-vending_machine r 3
+s100	2
+s75	7
+s50	4
+s25	6
+s0	5

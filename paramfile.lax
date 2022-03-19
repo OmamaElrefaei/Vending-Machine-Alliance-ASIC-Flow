@@ -1,0 +1,12 @@
+##Mode
+#M{2}
+##Level
+#L{2}
+##External Output Capacitance in fF
+#C{
+drink(0):100;
+drink(1):100;
+change25:100;
+change50:100;
+change100:100;
+}

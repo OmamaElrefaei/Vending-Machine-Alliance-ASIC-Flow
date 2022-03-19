@@ -1,0 +1,166 @@
+
+                   @@@    @@@           @@@@@@@              
+                    @@     @              @@   @@            
+                    @@@    @              @@    @@           
+                    @ @@   @    @@@@@     @@    @@     @@@   
+                    @ @@   @   @     @    @@   @@    @@   @@ 
+                    @  @@  @  @@     @@   @@@@@     @@     @@
+                    @   @@ @  @@@@@@@@@   @@  @@    @@     @@
+                    @   @@ @  @@          @@   @@   @@     @@
+                    @    @@@  @@      @   @@   @@   @@     @@
+                    @     @@   @@    @@   @@    @@   @@   @@ 
+                   @@@    @@     @@@@   @@@@@   @@@    @@@   
+
+                               Negotiating Router
+
+                   Alliance CAD System 5.0 20090901,  nero 5.0
+                   Copyright (c) 2002-2022,     ASIM/LIP6/UPMC
+                   E-mail        : alliance-users@asim.lip6.fr
+
+                                S/N 20080611.1
+
+
+  o  MBK environment :
+
+     MBK_IN_LO       := vst
+     MBK_OUT_LO      := vst
+     MBK_IN_PH       := ap
+     MBK_OUT_PH      := ap
+     MBK_WORK_LIB    := .
+     MBK_CATA_LIB    := .
+                        /usr/lib64/alliance/cells/sxlib
+                        /usr/lib64/alliance/cells/dp_sxlib
+                        /usr/lib64/alliance/cells/rflib
+                        /usr/lib64/alliance/cells/rf2lib
+                        /usr/lib64/alliance/cells/ramlib
+                        /usr/lib64/alliance/cells/romlib
+                        /usr/lib64/alliance/cells/pxlib
+                        /usr/lib64/alliance/cells/padlib
+     MBK_CATAL_NAME  := CATAL
+     MBK_VDD         := vdd
+     MBK_VSS         := vss
+     MBK_SEPAR       := .
+
+  o  Loading netlist "vending_machinea_s"...
+  o  Loading layout "vending_machinea_p"...
+  o  Flattening layout...
+  o  Flattening netlist...
+  o  Building netlist dual representation (lofigchain)...
+  o  Binding logical & physical views...
+
+  o  Loading design into grid...
+     o  Using seed cell "a2_x2_2_ins" (model "a2_x2").
+     o  Grid offset : (0,0) [adjust (0,0)]
+     o  Small design, global routing disabled.
+     o  Allocating grid size [74,71,3].
+     o  Loading external terminals.
+     o  Finding obstacles.
+     o  Loading nets into grid.
+     o  Allocating the net scheduler.
+     o  Reading power grid.
+
+  o  Local routing stage.
+     - [  82] (hp :=     0) "vdd"
+     - [  81] (hp :=     0) "vss"
+     - [  80] (hp :=     8) "a2_x2_7_sig"
+     - [  79] (hp :=     9) "na2_x1_2_sig"
+     - [  78] (hp :=     9) "drink 0"
+     - [  77] (hp :=     9) "scanout"
+     - [  76] (hp :=    10) "a2_x2_sig"
+     - [  75] (hp :=    10) "na4_x1_sig"
+     - [  74] (hp :=    11) "inv_x2_3_sig"
+     - [  73] (hp :=    12) "a2_x2_2_sig"
+     - [  72] (hp :=    12) "na2_x1_3_sig"
+     - [  71] (hp :=    12) "o2_x2_2_sig"
+     - [  70] (hp :=    13) "o3_x2_2_sig"
+     - [  69] (hp :=    13) "no2_x1_4_sig"
+     - [  68] (hp :=    13) "oa22_x2_2_sig"
+     - [  67] (hp :=    14) "a2_x2_5_sig"
+     - [  66] (hp :=    14) "o4_x2_sig"
+     - [  65] (hp :=    15) "aux14"
+     - [  64] (hp :=    15) "noa22_x1_3_sig"
+     - [  63] (hp :=    15) "a2_x2_3_sig"
+     - [  62] (hp :=    16) "o2_x2_sig"
+     - [  61] (hp :=    16) "a2_x2_6_sig"
+     - [  60] (hp :=    16) "xr2_x1_sig"
+     - [  59] (hp :=    18) "na2_x1_sig"
+     - [  58] (hp :=    18) "inv_x2_sig"
+     - [  57] (hp :=    18) "oa22_x2_sig"
+     - [  56] (hp :=    18) "oa22_x2_3_sig"
+     - [  55] (hp :=    19) "o3_x2_3_sig"
+     - [  54] (hp :=    19) "aux13"
+     - [  53] (hp :=    19) "no2_x1_3_sig"
+     - [  52] (hp :=    19) "na3_x1_sig"
+     - [  51] (hp :=    20) "a2_x2_4_sig"
+     - [  50] (hp :=    21) "scanin"
+     - [  49] (hp :=    21) "a4_x2_sig"
+     - [  48] (hp :=    22) "inv_x2_2_sig"
+     - [  47] (hp :=    24) "no2_x1_sig"
+     - [  46] (hp :=    25) "ao2o22_x2_sig"
+     - [  45] (hp :=    25) "noa22_x1_sig"
+     - [  44] (hp :=    25) "o3_x2_sig"
+     - [  43] (hp :=    26) "na3_x1_2_sig"
+     - [  42] (hp :=    26) "not_aux9"
+     - [  41] (hp :=    27) "not_aux2"
+     - [  40] (hp :=    27) "not_aux14"
+     - [  39] (hp :=    27) "ao2o22_x2_2_sig"
+     - [  38] (hp :=    28) "drink 1"
+     - [  37] (hp :=    29) "change50"
+     - [  36] (hp :=    31) "aux10"
+     - [  35] (hp :=    31) "not_aux12"
+     - [  34] (hp :=    31) "no2_x1_2_sig"
+     - [  33] (hp :=    32) "noa22_x1_2_sig"
+     - [  32] (hp :=    33) "change25"
+     - [  31] (hp :=    34) "o3_x2_4_sig"
+     - [  30] (hp :=    35) "oa2ao222_x2_sig"
+     - [  29] (hp :=    36) "not_vending_machine_ns_s50"
+     - [  28] (hp :=    37) "change100"
+     - [  27] (hp :=    43) "soft_drink"
+     - [  26] (hp :=    45) "vending_machine_cs_s50"
+     - [  25] (hp :=    51) "vending_machine_cs 1"
+     - [  24] (hp :=    53) "not_vending_machine_cs_s50"
+     - [  23] (hp :=    54) "aux0"
+     - [  22] (hp :=    55) "vending_machine_cs 2"
+     - [  21] (hp :=    55) "test"
+     - [  20] (hp :=    55) "vending_machine_cs 0"
+     - [  19] (hp :=    60) "not_aux7"
+     - [  18] (hp :=    64) "cancel"
+     - [  17] (hp :=    67) "not_aux13"
+     - [  16] (hp :=    68) "inv_x2_4_sig"
+     - [  15] (hp :=    71) "not_vending_machine_cs_s100"
+     - [  14] (hp :=    75) "not_aux10"
+     - [  13] (hp :=    76) "not_vending_machine_cs_s0"
+     - [  12] (hp :=    77) "not_cancel"
+     - [  11] (hp :=    78) "not_aux0"
+     - [  10] (hp :=    85) "piasters 0"
+     - [   9] (hp :=    86) "piasters 1"
+              > AStar unable to find a path.
+              > Re-routing with pri := 256.
+     - [  10] (hp :=    43) "soft_drink"
+     - [   9] (hp :=    85) "piasters 0"
+     - [   8] (hp :=    93) "not_piasters 1"
+     - [   7] (hp :=    95) "ck"
+     - [   6] (hp :=    98) "not_vending_machine_cs 0"
+     - [   5] (hp :=    99) "reset"
+     - [   4] (hp :=   104) "juice"
+     - [   3] (hp :=   111) "mbk_buf_not_vending_machine_cs_s50"
+     - [   2] (hp :=   113) "not_aux1"
+     - [   1] (hp :=   118) "not_piasters 0"
+     - [   0] (hp :=   121) "not_vending_machine_cs_s25"
+              > AStar unable to find a path.
+              > Re-routing with pri := 256.
+     - [   3] (hp :=    53) "not_vending_machine_cs_s50"
+     - [   2] (hp :=    60) "not_aux7"
+     - [   1] (hp :=    67) "not_aux13"
+     - [   0] (hp :=    98) "not_vending_machine_cs 0"
+
+  o  Routing stats :
+     - routing iterations    := 108810
+     - re-routing iterations := 12120
+     - ratio                 := 10.0223%.
+
+  o  Dumping routing grid.
+  o  Saving MBK figure "core".
+  o  Saving layout as "core"...
+
+

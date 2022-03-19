@@ -1,0 +1,198 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/d/Master Thesis/DCDR Design (SV)/CDR
+T_opt
+!s110 1647067725
+V]H<R_3o_3Zkkme`[JA?:n3
+Z1 04 18 4 work vending_machine_tb test 1
+=1-74867a0ae3eb-622c424a-163-3a10
+Z2 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z3 OL;O;10.4e;61
+R0
+T_opt1
+!s110 1647074401
+V2;]lQ5enW52[BAT_DE8fh2
+R1
+=1-74867a0ae3eb-622c5c60-17-4518
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1647451012
+V0V_kbM7V6lM<2=n]PKgO:2
+R1
+=1-74867a0ae3eb-62321b83-3cd-30dc
+R2
+n@_opt2
+R3
+Eframea_ln
+w1647071759
+dE:/d/CAD2 2021/Projects/Project 2
+8E:/d/CAD2 2021/Projects/Project 2/framea_ln.vhd
+FE:/d/CAD2 2021/Projects/Project 2/framea_ln.vhd
+l0
+L1
+VWRYKG;M_zGC?]<aCW0zB93
+!s100 NgSh4l[G]E^mhd<H:=ob>3
+Z4 OL;C;10.4e;61
+32
+!s110 1647071778
+!i10b 1
+!s108 1647071778.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/d/CAD2 2021/Projects/Project 2/framea_ln.vhd|
+!s107 E:/d/CAD2 2021/Projects/Project 2/framea_ln.vhd|
+!i113 0
+o-work work -2002 -explicit
+Z5 tExplicit 1
+Evending_machine
+Z6 w1647081093
+Z7 dE:/d/CAD2 2021/Projects/Vending Machine
+Z8 8vending_machine.vhd
+Z9 Fvending_machine.vhd
+l0
+L4
+V@H:>?@ziBmS1k?60712>02
+!s100 71kiT]lS65EoJcbPF<8n<1
+R4
+32
+Z10 !s110 1647451004
+!i10b 1
+Z11 !s108 1647451004.000000
+Z12 !s90 -nolock|-reportprogress|300|-work|work|vending_machine.vhd|
+Z13 !s107 vending_machine.vhd|
+!i113 0
+Z14 o-nolock -work work
+R5
+Amealy_fsm
+Z15 DEx4 work 15 vending_machine 0 22 @H:>?@ziBmS1k?60712>02
+l24
+L13
+VL^FA8Q9Z@5S_LD3=b57_j1
+!s100 28F4[9o[o:SJ=G35doa5O1
+R4
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R5
+Evending_machine_tb
+Z16 w1647451003
+R7
+Z17 8vending_machine_tb.vhd
+Z18 Fvending_machine_tb.vhd
+l0
+L4
+VJlCAj<A`D>cci`9DaKd6F0
+!s100 NNo8e2XmGAi7KzbzmfIdS0
+R4
+32
+Z19 !s110 1647451005
+!i10b 1
+Z20 !s108 1647451005.000000
+Z21 !s90 -nolock|-reportprogress|300|-work|work|vending_machine_tb.vhd|
+Z22 !s107 vending_machine_tb.vhd|
+!i113 0
+R14
+R5
+Atest
+Z23 DEx4 work 18 vending_machinea_s 0 22 QKO[`RN@<>TiHBP_5?0T60
+Z24 DEx4 work 19 vending_machinea_ln 0 22 E_ZY:a]1X8WhAg4XTD:N80
+R15
+DEx4 work 18 vending_machine_tb 0 22 JlCAj<A`D>cci`9DaKd6F0
+l74
+L7
+VG<ZN_V[@IE8L71_[YTG;Q2
+!s100 ?=g8<HLB82l0iWz<?mP@31
+R4
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 0
+R14
+R5
+Evending_machinea_ln
+Z25 w1647081354
+R7
+Z26 8vending_machinea_ln.vhd
+Z27 Fvending_machinea_ln.vhd
+l0
+L3
+VE_ZY:a]1X8WhAg4XTD:N80
+!s100 a333c=2fD9`Bf8aF?<?hd2
+R4
+32
+R19
+!i10b 1
+R20
+Z28 !s90 -nolock|-reportprogress|300|-work|work|vending_machinea_ln.vhd|
+Z29 !s107 vending_machinea_ln.vhd|
+!i113 0
+R14
+R5
+Astructural
+R24
+l270
+L20
+VSbI:V<3bA9ZPOl9iGZjNA1
+!s100 k56^Dz]=z@1F<;c:A^c;d2
+R4
+32
+R19
+!i10b 1
+R20
+R28
+R29
+!i113 0
+R14
+R5
+Evending_machinea_s
+Z30 w1647099232
+R7
+Z31 8vending_machinea_s.vhd
+Z32 Fvending_machinea_s.vhd
+l0
+L3
+VQKO[`RN@<>TiHBP_5?0T60
+!s100 jQ7j`2?_]8XOXfbZLJY1a1
+R4
+32
+R19
+!i10b 1
+R20
+Z33 !s90 -nolock|-reportprogress|300|-work|work|vending_machinea_s.vhd|
+Z34 !s107 vending_machinea_s.vhd|
+!i113 0
+R14
+R5
+Astructural
+R23
+l284
+L23
+Ve_P^M8j1k[IDO7Qe57jSQ0
+!s100 @>XEJATzk1L4RnUV?zXg;3
+R4
+32
+R19
+!i10b 1
+R20
+R33
+R34
+!i113 0
+R14
+R5

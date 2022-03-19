@@ -1,0 +1,126 @@
+-- VHDL data flow description generated from `vending_machinej_b`
+--		date : Thu Mar 17 18:52:07 2022
+
+
+-- Entity Declaration
+
+ENTITY vending_machinej_b IS
+  PORT (
+  ck : in BIT;	-- ck
+  vdd : in BIT;	-- vdd
+  vss : in BIT;	-- vss
+  reset : in BIT;	-- reset
+  soft_drink : in BIT;	-- soft_drink
+  juice : in BIT;	-- juice
+  cancel : in BIT;	-- cancel
+  piasters : in bit_vector(1 DOWNTO 0) ;	-- piasters
+  drink : out bit_vector(1 DOWNTO 0) ;	-- drink
+  change25 : out BIT;	-- change25
+  change50 : out BIT;	-- change50
+  change100 : out BIT	-- change100
+  );
+END vending_machinej_b;
+
+
+-- Architecture Declaration
+
+ARCHITECTURE behaviour_data_flow OF vending_machinej_b IS
+  SIGNAL vending_machine_cs : REG_VECTOR(2 DOWNTO 0) REGISTER;	-- vending_machine_cs
+  SIGNAL vending_machine_cs_s100 : BIT;		-- vending_machine_cs_s100
+  SIGNAL vending_machine_cs_s75 : BIT;		-- vending_machine_cs_s75
+  SIGNAL vending_machine_cs_s50 : BIT;		-- vending_machine_cs_s50
+  SIGNAL vending_machine_cs_s25 : BIT;		-- vending_machine_cs_s25
+  SIGNAL vending_machine_ns_s25 : BIT;		-- vending_machine_ns_s25
+  SIGNAL vending_machine_cs_s0 : BIT;		-- vending_machine_cs_s0
+  SIGNAL vending_machine_ns_s0 : BIT;		-- vending_machine_ns_s0
+  SIGNAL aux0 : BIT;		-- aux0
+  SIGNAL aux1 : BIT;		-- aux1
+  SIGNAL aux5 : BIT;		-- aux5
+  SIGNAL aux6 : BIT;		-- aux6
+  SIGNAL aux9 : BIT;		-- aux9
+  SIGNAL aux10 : BIT;		-- aux10
+  SIGNAL aux11 : BIT;		-- aux11
+  SIGNAL aux12 : BIT;		-- aux12
+  SIGNAL aux13 : BIT;		-- aux13
+  SIGNAL aux14 : BIT;		-- aux14
+  SIGNAL aux15 : BIT;		-- aux15
+  SIGNAL aux16 : BIT;		-- aux16
+  SIGNAL aux17 : BIT;		-- aux17
+
+BEGIN
+  aux17 <= ((aux6 OR aux5) AND (((piasters(0) OR 
+vending_machine_cs_s75) AND piasters(1)) OR vending_machine_cs_s100));
+  aux16 <= (piasters(0) AND aux15);
+  aux15 <= (piasters(1) AND vending_machine_cs_s100);
+  aux14 <= (piasters(0) AND NOT(piasters(1)));
+  aux13 <= (piasters(0) OR NOT(piasters(1)));
+  aux12 <= (aux1 AND cancel);
+  aux11 <= (aux1 AND piasters(0));
+  aux10 <= NOT(NOT(aux1) OR cancel);
+  aux9 <= ((cancel AND NOT(piasters(0))) AND NOT(
+piasters(1)));
+  aux6 <= (vending_machine_cs_s75 OR 
+vending_machine_cs_s100);
+  aux5 <= (vending_machine_cs_s25 OR vending_machine_cs_s50
+);
+  aux1 <= (NOT(soft_drink) AND NOT(juice));
+  aux0 <= NOT(NOT(piasters(0)) AND NOT(piasters(1)));
+  vending_machine_ns_s0 <= ((((aux6 OR vending_machine_cs_s0) AND (((NOT(
+aux1) OR NOT(piasters(1))) AND 
+vending_machine_cs_s100) OR NOT(piasters(0)) OR vending_machine_cs_s75))
+ OR aux5) AND ((NOT(aux0) AND 
+vending_machine_cs_s0) OR (((NOT(piasters(0)) AND 
+vending_machine_cs_s75) OR NOT(piasters(0) XOR piasters(1)) OR 
+vending_machine_cs_s100) AND NOT(aux10))));
+  vending_machine_cs_s0 <= (vending_machine_cs(2) AND vending_machine_cs(1));
+  vending_machine_ns_s25 <= (((NOT(aux14) OR vending_machine_cs_s0) AND ((
+aux11 AND aux15) OR (aux10 AND aux13)) AND 
+vending_machine_cs_s25) OR (aux14 AND vending_machine_cs_s0) OR (aux12 
+AND aux16));
+  vending_machine_cs_s25 <= (NOT(vending_machine_cs(2)) AND 
+vending_machine_cs(1) AND vending_machine_cs(0));
+  vending_machine_cs_s50 <= (vending_machine_cs(1) AND NOT(
+vending_machine_cs(0)));
+  vending_machine_cs_s75 <= (NOT(vending_machine_cs(1)) AND 
+vending_machine_cs(0));
+  vending_machine_cs_s100 <= (NOT(vending_machine_cs(1)) AND NOT(
+vending_machine_cs(0)));
+  label0 : BLOCK ((ck AND NOT((ck'STABLE))) = '1')
+  BEGIN
+    vending_machine_cs (0) <= GUARDED (reset OR (vending_machine_ns_s25 OR 
+vending_machine_ns_s0 OR ((aux14 AND vending_machine_cs_s50) OR (NOT(
+aux13) AND vending_machine_cs_s25) OR (aux10 AND NOT(
+aux14) AND vending_machine_cs_s75))));
+  END BLOCK label0;
+  label1 : BLOCK ((ck AND NOT((ck'STABLE))) = '1')
+  BEGIN
+    vending_machine_cs (1) <= GUARDED (reset OR ((((NOT(aux14) OR 
+vending_machine_cs_s25) AND aux10 AND (aux13 OR vending_machine_cs_s0) 
+AND vending_machine_cs_s50) OR (aux14 AND 
+vending_machine_cs_s25) OR (NOT(aux13) AND vending_machine_cs_s0)) OR 
+vending_machine_ns_s25 OR vending_machine_ns_s0));
+  END BLOCK label1;
+  label2 : BLOCK ((ck AND NOT((ck'STABLE))) = '1')
+  BEGIN
+    vending_machine_cs (2) <= GUARDED (reset OR vending_machine_ns_s0);
+  END BLOCK label2;
+
+change100 <= (aux17 AND (aux1 OR NOT(aux0)) AND cancel);
+
+change50 <= ((aux15 OR vending_machine_cs_s75 OR 
+vending_machine_cs_s50) AND (aux11 OR NOT(piasters(1)) OR 
+vending_machine_cs_s100) AND (((aux1 OR piasters(0)) AND NOT(aux10) AND 
+piasters(1)) OR aux9));
+
+change25 <= ((NOT(aux1) AND piasters(0) AND piasters(1) AND (
+NOT(vending_machine_cs_s100) OR 
+vending_machine_cs_s25) AND vending_machine_cs_s50) OR (((NOT(aux10) 
+AND piasters(0) AND vending_machine_cs_s100) OR 
+vending_machine_cs_s75 OR vending_machine_cs_s25) AND ((NOT(aux1) AND 
+aux16) OR ((aux13 OR vending_machine_cs_s75) AND ((
+aux12 AND piasters(1)) OR aux9)))));
+
+drink (0) <= (aux17 AND juice AND aux0);
+
+drink (1) <= (aux17 AND soft_drink AND aux0);
+END;

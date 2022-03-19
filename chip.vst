@@ -1,0 +1,162 @@
+entity chip is
+   port (
+      ck         : in      bit;
+      vdd        : in      bit;
+      vdde       : in      bit;
+      vss        : in      bit;
+      vsse       : in      bit;
+      reset      : in      bit;
+      soft_drink : in      bit;
+      juice      : in      bit;
+      cancel     : in      bit;
+      piasters   : in      bit_vector(1 downto 0);
+      drink      : out     bit_vector(1 downto 0);
+      change25   : out     bit;
+      change50   : out     bit;
+      change100  : out     bit;
+      scanin     : in      bit;
+      test       : in      bit;
+      scanout    : out     bit
+ );
+end chip;
+
+ARCHITECTURE structural OF chip IS
+
+COMPONENT vending_machinea_s
+   port (
+      ck         : in      bit;
+      vdd        : in      bit;
+      vss        : in      bit;
+      reset      : in      bit;
+      soft_drink : in      bit;
+      juice      : in      bit;
+      cancel     : in      bit;
+      piasters   : in      bit_vector(1 downto 0);
+      drink      : out     bit_vector(1 downto 0);
+      change25   : out     bit;
+      change50   : out     bit;
+      change100  : out     bit;
+      scanin     : in      bit;
+      test       : in      bit;
+      scanout    : out     bit
+ );
+end COMPONENT;
+
+COMPONENT pi_sp
+  PORT (
+  pad  : in BIT;	-- pad
+  t    : out BIT;	-- t
+  ck   : in BIT;	-- ck
+  vdde : in BIT;	-- vdde
+  vddi : in BIT;	-- vddi
+  vsse : in BIT;	-- vsse
+  vssi : in BIT	        -- vssi
+  );
+END COMPONENT;
+
+COMPONENT po_sp
+  PORT (
+  i    : in BIT;	-- i
+  pad  : out BIT;	-- pad
+  ck   : in BIT;	-- ck
+  vdde : in BIT;	-- vdde
+  vddi : in BIT;	-- vddi
+  vsse : in BIT;	-- vsse
+  vssi : in BIT	        -- vssi
+  );
+END COMPONENT;
+
+COMPONENT pck_sp
+  PORT (
+  pad  : in BIT;	-- pad
+  ck   : out BIT;	-- ck
+  vdde : in BIT;	-- vdde
+  vddi : in BIT;	-- vddi
+  vsse : in BIT;	-- vsse
+  vssi : in BIT	        -- vssi
+  );
+END COMPONENT;
+
+COMPONENT pvddi_sp
+  PORT (
+  ck   : in BIT;	-- ck
+  vdde : in BIT;	-- vdde
+  vddi : in BIT;	-- vddi
+  vsse : in BIT;	-- vsse
+  vssi : in BIT	        -- vssi
+  );
+END COMPONENT;
+
+COMPONENT pvssick_sp
+  PORT (
+  cko  : out WOR_BIT BUS;	-- cko
+  ck   : in BIT;	        -- ck
+  vdde : in BIT;	        -- vdde
+  vddi : in BIT;	        -- vddi
+  vsse : in BIT;	        -- vsse
+  vssi : in BIT	                -- vssi
+  );
+END COMPONENT;
+
+COMPONENT pvdde_sp
+  PORT (
+  ck   : in BIT;        -- ck
+  vdde : in BIT;	-- vdde
+  vddi : in BIT;	-- vddi
+  vsse : in BIT;	-- vsse
+  vssi : in BIT	        -- vssi
+  );
+END COMPONENT;
+
+COMPONENT pvsse_sp
+  PORT (
+  ck   : in BIT;	-- ck
+  vdde : in BIT;	-- vdde
+  vddi : in BIT;	-- vddi
+  vsse : in BIT;	-- vsse
+  vssi : in BIT	        -- vssi
+  );
+END COMPONENT;
+
+SIGNAL cko          : bit;
+SIGNAL ck_i         : bit;
+SIGNAL reset_i      : bit;
+SIGNAL soft_drink_i : bit;
+SIGNAL juice_i      : bit;
+SIGNAL cancel_i     : bit;
+SIGNAL piasters_i   : bit_vector(1 downto 0);
+SIGNAL drink_i      : bit_vector(1 downto 0);
+SIGNAL change25_i   : bit;
+SIGNAL change50_i   : bit;
+SIGNAL change100_i  : bit;
+SIGNAL scanin_i     : bit;
+SIGNAL test_i       : bit;
+SIGNAL scanout_i    : bit;
+
+begin
+
+p_ck 	     : pck_sp 	  PORT MAP (ck,ck_i,vdde,vdd,vsse,vss);
+p_vddi 	     : pvddi_sp   PORT MAP (ck_i,vdde,vdd,vsse,vss);
+p_vssick     : pvssick_sp PORT MAP (cko,ck_i,vdde,vdd,vsse,vss);
+p_vdde 	     : pvdde_sp   PORT MAP (ck_i,vdde,vdd,vsse,vss);
+p_vsse 	     : pvsse_sp   PORT MAP (ck_i,vdde,vdd,vsse,vss);
+
+p_reset      : pi_sp      PORT MAP (reset,reset_i,ck_i,vdde,vdd,vsse,vss);
+p_soft_drink : pi_sp      PORT MAP (soft_drink,soft_drink_i,ck_i,vdde,vdd,vsse,vss);
+p_juice      : pi_sp      PORT MAP (juice,juice_i,ck_i,vdde,vdd,vsse,vss);
+p_cancel     : pi_sp      PORT MAP (cancel,cancel_i,ck_i,vdde,vdd,vsse,vss);
+p_piasters0  : pi_sp      PORT MAP (piasters(0),piasters_i(0),ck_i,vdde,vdd,vsse,vss);
+p_piasters1  : pi_sp      PORT MAP (piasters(1),piasters_i(1),ck_i,vdde,vdd,vsse,vss);
+p_scanin     : pi_sp      PORT MAP (scanin,scanin_i,ck_i,vdde,vdd,vsse,vss);
+p_test       : pi_sp      PORT MAP (test,test_i,ck_i,vdde,vdd,vsse,vss);
+
+p_drink0     : po_sp      PORT MAP (drink_i(0),drink(0),ck_i,vdde,vdd,vsse,vss);
+p_drink1     : po_sp      PORT MAP (drink_i(1),drink(1),ck_i,vdde,vdd,vsse,vss);
+p_change25   : po_sp      PORT MAP (change25_i,change25,ck_i,vdde,vdd,vsse,vss);
+p_change50   : po_sp      PORT MAP (change50_i,change50,ck_i,vdde,vdd,vsse,vss);
+p_change100  : po_sp      PORT MAP (change100_i,change100,ck_i,vdde,vdd,vsse,vss);
+p_scanout    : po_sp      PORT MAP (scanout_i,scanout,ck_i,vdde,vdd,vsse,vss);
+
+core       : vending_machinea_s PORT MAP (cko,vdd,vss,reset_i,soft_drink_i,juice_i,cancel_i,piasters_i,drink_i,change25_i,change50_i,change100_i,scanin_i,test_i,scanout_i);
+
+end structural;

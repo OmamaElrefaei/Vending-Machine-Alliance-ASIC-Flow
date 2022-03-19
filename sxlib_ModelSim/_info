@@ -1,0 +1,3377 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/addacu
+Ea2_x2
+Z1 OL;C;10.4e;61
+32
+Z2 !s110 1476100544
+!i10b 1
+Z3 w1476091312
+R0
+Z4 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a2_x2.vhd
+Z5 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a2_x2.vhd
+l0
+L1
+VMmUC]5HUXJeio7]YQc=Za2
+!s100 o<hHmgYmGc]8X3K2?1@:12
+Z6 OP;C;10.4a;61
+Z7 !s108 1476100543.000000
+Z8 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a2_x2.vhd|
+Z9 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a2_x2.vhd|
+!i113 1
+Z10 o-work sxlib -O0
+Z11 tExplicit 1
+Abehaviour_data_flow
+DEx4 work 5 a2_x2 0 22 MmUC]5HUXJeio7]YQc=Za2
+R1
+32
+R2
+!i10b 1
+l27
+L25
+V8=^;_O6EVnQ^g=Mf=B8AV2
+!s100 ?PI9172B<L5_kg=`]APLZ0
+R6
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Ea2_x4
+R1
+32
+R2
+!i10b 1
+R3
+R0
+Z12 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a2_x4.vhd
+Z13 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a2_x4.vhd
+l0
+L1
+VXKFM13OacKS6X69ebJo:I1
+!s100 e772O_L57A9=fiLRSl;032
+R6
+Z14 !s108 1476100544.000000
+Z15 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a2_x4.vhd|
+Z16 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a2_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 5 a2_x4 0 22 XKFM13OacKS6X69ebJo:I1
+R1
+32
+R2
+!i10b 1
+l27
+L25
+V1^=mi6]NmFlGFAEfARZzW0
+!s100 QVa1CoQSCVDPA]bd5[[>P1
+R6
+R14
+R15
+R16
+!i113 1
+R10
+R11
+Ea3_x2
+R1
+32
+R2
+!i10b 1
+R3
+R0
+Z17 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a3_x2.vhd
+Z18 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a3_x2.vhd
+l0
+L1
+V;5bV8eQX`29BO5B?aY8mD0
+!s100 9KMk`;J:i;l>H1=;jcgNC1
+R6
+R14
+Z19 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a3_x2.vhd|
+Z20 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a3_x2.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 5 a3_x2 0 22 ;5bV8eQX`29BO5B?aY8mD0
+R1
+32
+R2
+!i10b 1
+l33
+L31
+VX_TTBjf0YP1[V8j:Fh6R?3
+!s100 IbE2FE:zhb`_O_1iecaUd0
+R6
+R14
+R19
+R20
+!i113 1
+R10
+R11
+Ea3_x4
+R1
+32
+R2
+!i10b 1
+R3
+R0
+Z21 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a3_x4.vhd
+Z22 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a3_x4.vhd
+l0
+L1
+VmI^dS;3lNX7<YKHUFE2372
+!s100 T<I;K3WQfoc4IO3H@G81>0
+R6
+R14
+Z23 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a3_x4.vhd|
+Z24 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a3_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 5 a3_x4 0 22 mI^dS;3lNX7<YKHUFE2372
+R1
+32
+R2
+!i10b 1
+l33
+L31
+VdkH`We;bO3IkIW?Q;KY5P0
+!s100 E9DMjiAdz^TY0^eU<U?O52
+R6
+R14
+R23
+R24
+!i113 1
+R10
+R11
+Ea4_x2
+R1
+32
+R2
+!i10b 1
+R3
+R0
+Z25 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a4_x2.vhd
+Z26 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a4_x2.vhd
+l0
+L1
+VLZL=RiUcfJha]z[A9<<[J2
+!s100 f<k>fHz83Lm_2g@F[LBjP1
+R6
+R14
+Z27 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a4_x2.vhd|
+Z28 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a4_x2.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 5 a4_x2 0 22 LZL=RiUcfJha]z[A9<<[J2
+R1
+32
+R2
+!i10b 1
+l39
+L37
+Vl3Q4?i?[fKHA::JM=Lai<1
+!s100 OjK88I0I3QkaL=P@P8EL=2
+R6
+R14
+R27
+R28
+!i113 1
+R10
+R11
+Ea4_x4
+R1
+32
+R2
+!i10b 1
+R3
+R0
+Z29 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a4_x4.vhd
+Z30 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a4_x4.vhd
+l0
+L1
+V`Q_3@8Y[Pm9aW0Tl@Y7RC1
+!s100 jdM;7cbhX9L8@I`_Uh_VK1
+R6
+R14
+Z31 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a4_x4.vhd|
+Z32 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/a4_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 5 a4_x4 0 22 `Q_3@8Y[Pm9aW0Tl@Y7RC1
+R1
+32
+R2
+!i10b 1
+l39
+L37
+VHADLfc[0jHOX^C11`o2na1
+!s100 Fn0NRZ<ijWL`_RAhRo5Rh2
+R6
+R14
+R31
+R32
+!i113 1
+R10
+R11
+Ean12_x1
+R1
+32
+R2
+!i10b 1
+R3
+R0
+Z33 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/an12_x1.vhd
+Z34 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/an12_x1.vhd
+l0
+L1
+VE[n2m@^hXAFTMiF[U>;>h0
+!s100 oMAL6MHTTI=AJlN];hR3X1
+R6
+R14
+Z35 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/an12_x1.vhd|
+Z36 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/an12_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 7 an12_x1 0 22 E[n2m@^hXAFTMiF[U>;>h0
+R1
+32
+R2
+!i10b 1
+l27
+L25
+Vc8j97KPfK4]WYP78oXT;P2
+!s100 e;O>=V[?nbC`mPd?A>?Mn0
+R6
+R14
+R35
+R36
+!i113 1
+R10
+R11
+Ean12_x4
+R1
+32
+R2
+!i10b 1
+R3
+R0
+Z37 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/an12_x4.vhd
+Z38 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/an12_x4.vhd
+l0
+L1
+VTO?G9oB[bY=8MTZXS2k?J2
+!s100 WTEI2N=jVIgXIZ9WDl8ic2
+R6
+R14
+Z39 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/an12_x4.vhd|
+Z40 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/an12_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 7 an12_x4 0 22 TO?G9oB[bY=8MTZXS2k?J2
+R1
+32
+R2
+!i10b 1
+l27
+L25
+V>J[`H;Lji1:Z`[GZjYSYK2
+!s100 Mz0kI]b58VTHNNmUKYi`>0
+R6
+R14
+R39
+R40
+!i113 1
+R10
+R11
+Eao22_x2
+R1
+32
+Z41 !s110 1476100545
+!i10b 1
+R3
+R0
+Z42 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/ao22_x2.vhd
+Z43 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/ao22_x2.vhd
+l0
+L1
+VBdYGM7Y<G43^M@Lbdc2R^3
+!s100 81R=cGV_f0kTLQ@dbg]DG2
+R6
+Z44 !s108 1476100545.000000
+Z45 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/ao22_x2.vhd|
+Z46 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/ao22_x2.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 7 ao22_x2 0 22 BdYGM7Y<G43^M@Lbdc2R^3
+R1
+32
+R41
+!i10b 1
+l33
+L31
+Vfobo<EQd@k34cl;aB<d]Q3
+!s100 hC2^`bimb2iK2OV49?_UL2
+R6
+R44
+R45
+R46
+!i113 1
+R10
+R11
+Eao22_x4
+R1
+32
+R41
+!i10b 1
+R3
+R0
+Z47 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/ao22_x4.vhd
+Z48 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/ao22_x4.vhd
+l0
+L1
+V9QI?JkU=8e8o06@;Tf8]O2
+!s100 ll^0ZDW:=0hVifQ1C6DMN2
+R6
+R44
+Z49 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/ao22_x4.vhd|
+Z50 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/ao22_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 7 ao22_x4 0 22 9QI?JkU=8e8o06@;Tf8]O2
+R1
+32
+R41
+!i10b 1
+l33
+L31
+V2?B>2j@TdS<7JUc]E`L?f3
+!s100 ACl;dH83nk;?TQG3ZllIN3
+R6
+R44
+R49
+R50
+!i113 1
+R10
+R11
+Eao2o22_x2
+R1
+32
+R2
+!i10b 1
+R3
+R0
+Z51 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/ao2o22_x2.vhd
+Z52 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/ao2o22_x2.vhd
+l0
+L1
+VV9UVZe7P8l9fHLL]`6njm2
+!s100 mhMNUgkCRJa3bgBNAl[j10
+R6
+R14
+Z53 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/ao2o22_x2.vhd|
+Z54 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/ao2o22_x2.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 9 ao2o22_x2 0 22 V9UVZe7P8l9fHLL]`6njm2
+R1
+32
+R2
+!i10b 1
+l39
+L37
+VZf1RdI4WBFLMYNE:QbQho0
+!s100 2LYW8:?EZ;a:62YIGZ_PE1
+R6
+R14
+R53
+R54
+!i113 1
+R10
+R11
+Eao2o22_x4
+R1
+32
+R41
+!i10b 1
+R3
+R0
+Z55 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/ao2o22_x4.vhd
+Z56 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/ao2o22_x4.vhd
+l0
+L1
+V9[4LcG<G:YTR_2B3HXh<L2
+!s100 XeS=AHTND5bDUjcJd2aNl1
+R6
+R44
+Z57 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/ao2o22_x4.vhd|
+Z58 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/ao2o22_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 9 ao2o22_x4 0 22 9[4LcG<G:YTR_2B3HXh<L2
+R1
+32
+R41
+!i10b 1
+l39
+L37
+V?1[_1Wnef2@10^kcFM?LS1
+!s100 jX<Y3b3fSfMR>bY3JKac>3
+R6
+R44
+R57
+R58
+!i113 1
+R10
+R11
+Ebuf_x2
+R1
+32
+R41
+!i10b 1
+R3
+R0
+Z59 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/buf_x2.vhd
+Z60 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/buf_x2.vhd
+l0
+L1
+V54530f7b40zMU4W`:@QG;1
+!s100 n>iAa3jIQ5ZROS<lLU8[C0
+R6
+R44
+Z61 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/buf_x2.vhd|
+Z62 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/buf_x2.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 buf_x2 0 22 54530f7b40zMU4W`:@QG;1
+R1
+32
+R41
+!i10b 1
+l21
+L19
+VLO?74XSOk0giVlHQlWT5R3
+!s100 EXnI1_e]^6H;M>zYI^>nP0
+R6
+R44
+R61
+R62
+!i113 1
+R10
+R11
+Ebuf_x4
+R1
+32
+R41
+!i10b 1
+R3
+R0
+Z63 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/buf_x4.vhd
+Z64 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/buf_x4.vhd
+l0
+L1
+VbA?AYjEk:TVKd27OikLF=1
+!s100 P7R9SdD[F1X2YmUYBDVEF0
+R6
+R44
+Z65 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/buf_x4.vhd|
+Z66 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/buf_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 buf_x4 0 22 bA?AYjEk:TVKd27OikLF=1
+R1
+32
+R41
+!i10b 1
+l21
+L19
+V[aYNgZeinOB>k3AzW0;W62
+!s100 ?WZ0:I<JhU>P^?fST8Q[X2
+R6
+R44
+R65
+R66
+!i113 1
+R10
+R11
+Ebuf_x8
+R1
+32
+R41
+!i10b 1
+R3
+R0
+Z67 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/buf_x8.vhd
+Z68 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/buf_x8.vhd
+l0
+L1
+V37dMdHm_>AgXEEfSIQaB`2
+!s100 Io4_2JE1^dZAblcBBW[Qi3
+R6
+R44
+Z69 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/buf_x8.vhd|
+Z70 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/buf_x8.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 buf_x8 0 22 37dMdHm_>AgXEEfSIQaB`2
+R1
+32
+R41
+!i10b 1
+l21
+L19
+VhU]e>:V7>70gAHdiji1O>0
+!s100 eA0nKMRBi`JJ^QI]^iOn?0
+R6
+R44
+R69
+R70
+!i113 1
+R10
+R11
+Efulladder_x2
+R1
+32
+R41
+!i10b 1
+R3
+R0
+Z71 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/fulladder_x2.vhd
+Z72 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/fulladder_x2.vhd
+l0
+L1
+VbenmGeKn7^N:JJYQQ3fAF0
+!s100 ;dk?7<fRB6I_`mk4?e9^[1
+R6
+R44
+Z73 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/fulladder_x2.vhd|
+Z74 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/fulladder_x2.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 12 fulladder_x2 0 22 benmGeKn7^N:JJYQQ3fAF0
+R1
+32
+R41
+!i10b 1
+l103
+L100
+VXkQ;0zG0o9ASgE3;6G>L<1
+!s100 Pe:XOPYnKZNH>HM?gnG3f0
+R6
+R44
+R73
+R74
+!i113 1
+R10
+R11
+Efulladder_x4
+R1
+32
+R41
+!i10b 1
+R3
+R0
+Z75 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/fulladder_x4.vhd
+Z76 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/fulladder_x4.vhd
+l0
+L1
+V>YnNV5kKYLmXI8;Jbg9ga2
+!s100 3<;DAZ3G]?6VVU`dUeXla0
+R6
+R44
+Z77 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/fulladder_x4.vhd|
+Z78 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/fulladder_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 12 fulladder_x4 0 22 >YnNV5kKYLmXI8;Jbg9ga2
+R1
+32
+R41
+!i10b 1
+l103
+L100
+VHlidWeR9Vb70i@@2K;aWZ2
+!s100 RoAY80S?LfWfA2N[zHR>m0
+R6
+R44
+R77
+R78
+!i113 1
+R10
+R11
+Ehalfadder_x2
+R1
+32
+Z79 !s110 1476100546
+!i10b 1
+R3
+R0
+Z80 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/halfadder_x2.vhd
+Z81 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/halfadder_x2.vhd
+l0
+L1
+VDH37:0LMDF`mDFd:KnRgP1
+!s100 <X6X:7HQb6AF;Yf:7_^CC0
+R6
+R44
+Z82 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/halfadder_x2.vhd|
+Z83 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/halfadder_x2.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 12 halfadder_x2 0 22 DH37:0LMDF`mDFd:KnRgP1
+R1
+32
+R79
+!i10b 1
+l40
+L38
+V2iA<`ZBCl6lYJkZo<_TDY0
+!s100 8zEQIC`K`5jMi=8=oa9ZE3
+R6
+R44
+R82
+R83
+!i113 1
+R10
+R11
+Ehalfadder_x4
+R1
+32
+R79
+!i10b 1
+R3
+R0
+Z84 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/halfadder_x4.vhd
+Z85 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/halfadder_x4.vhd
+l0
+L1
+VFeM9bFa1]L73OHYH1H0Dk0
+!s100 kCNjcP1lU6:TQLTJIUO:D1
+R6
+Z86 !s108 1476100546.000000
+Z87 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/halfadder_x4.vhd|
+Z88 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/halfadder_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 12 halfadder_x4 0 22 FeM9bFa1]L73OHYH1H0Dk0
+R1
+32
+R79
+!i10b 1
+l40
+L38
+VNSn>@Gd@IAIe<l56cU=<Y3
+!s100 _oLSHV?XFN0F<TZ>?d8@z2
+R6
+R86
+R87
+R88
+!i113 1
+R10
+R11
+Einv_x1
+R1
+32
+R79
+!i10b 1
+R3
+R0
+Z89 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/inv_x1.vhd
+Z90 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/inv_x1.vhd
+l0
+L1
+VU_;29moeNAi1;mOeFjN3Z0
+!s100 WgAVOo96g1e;cGWfaEORk1
+R6
+R86
+Z91 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/inv_x1.vhd|
+Z92 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/inv_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 inv_x1 0 22 U_;29moeNAi1;mOeFjN3Z0
+R1
+32
+R79
+!i10b 1
+l21
+L19
+V;4=Ji8<GW:CT[Q_dcgiV^2
+!s100 b[`MHD]1FP]jTWGPO[]zG3
+R6
+R86
+R91
+R92
+!i113 1
+R10
+R11
+Einv_x2
+R1
+32
+R79
+!i10b 1
+R3
+R0
+Z93 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/inv_x2.vhd
+Z94 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/inv_x2.vhd
+l0
+L1
+VB=5U0FRY[jSL[k4Dal=Jb1
+!s100 7h]7aMW@YRla8oCKa4REP2
+R6
+R86
+Z95 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/inv_x2.vhd|
+Z96 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/inv_x2.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 inv_x2 0 22 B=5U0FRY[jSL[k4Dal=Jb1
+R1
+32
+R79
+!i10b 1
+l21
+L19
+V1hhYAS4O>YQ2DzfO6i2N23
+!s100 LQjSJL`@^UYAd5[l<1zMg0
+R6
+R86
+R95
+R96
+!i113 1
+R10
+R11
+Einv_x4
+R1
+32
+R79
+!i10b 1
+R3
+R0
+Z97 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/inv_x4.vhd
+Z98 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/inv_x4.vhd
+l0
+L1
+Vc@nWEAHKf=gn>ORMZLMEh0
+!s100 R8Jao@EI:i[zm`g6oG?Fa1
+R6
+R86
+Z99 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/inv_x4.vhd|
+Z100 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/inv_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 inv_x4 0 22 c@nWEAHKf=gn>ORMZLMEh0
+R1
+32
+R79
+!i10b 1
+l21
+L19
+VhZlUleYM`zcXA4HehhkNj0
+!s100 nc@gaL=4MX];X5OL=m2eT0
+R6
+R86
+R99
+R100
+!i113 1
+R10
+R11
+Einv_x8
+R1
+32
+R79
+!i10b 1
+R3
+R0
+Z101 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/inv_x8.vhd
+Z102 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/inv_x8.vhd
+l0
+L1
+V7RY@[WdeVGfoEkb10Pnmc0
+!s100 POVGUzJ5Akmi9BFRzBIYB1
+R6
+R86
+Z103 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/inv_x8.vhd|
+Z104 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/inv_x8.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 inv_x8 0 22 7RY@[WdeVGfoEkb10Pnmc0
+R1
+32
+R79
+!i10b 1
+l21
+L19
+V81OiS;T;QjGGDDGHmF66l2
+!s100 ::RF_Hd[92?^^DjOn;3c@2
+R6
+R86
+R103
+R104
+!i113 1
+R10
+R11
+Emx2_x2
+R1
+32
+R79
+!i10b 1
+R3
+R0
+Z105 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/mx2_x2.vhd
+Z106 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/mx2_x2.vhd
+l0
+L1
+VGNDV26`RR^78eJ2[>R[HE2
+!s100 ]^E?TFUSX9UCZKz4AD;4c3
+R6
+R86
+Z107 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/mx2_x2.vhd|
+Z108 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/mx2_x2.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 mx2_x2 0 22 GNDV26`RR^78eJ2[>R[HE2
+R1
+32
+R79
+!i10b 1
+l35
+L33
+VZ:5BG0`8<BO]0cUzAZ;6X3
+!s100 Ll?AH`18QoYF>75e2Y<HE0
+R6
+R86
+R107
+R108
+!i113 1
+R10
+R11
+Emx2_x4
+R1
+32
+R79
+!i10b 1
+R3
+R0
+Z109 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/mx2_x4.vhd
+Z110 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/mx2_x4.vhd
+l0
+L1
+VCQIUG`2[EdKae<ZA`c<]B1
+!s100 hL_c6:CNmGAdfa8Ql6MbJ3
+R6
+R86
+Z111 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/mx2_x4.vhd|
+Z112 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/mx2_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 mx2_x4 0 22 CQIUG`2[EdKae<ZA`c<]B1
+R1
+32
+R79
+!i10b 1
+l35
+L33
+VaPM:f:8gHdaJ^ka<495:J2
+!s100 iX4WD1dLT0]YCSO9jDLR:0
+R6
+R86
+R111
+R112
+!i113 1
+R10
+R11
+Emx3_x2
+R1
+32
+R79
+!i10b 1
+R3
+R0
+Z113 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/mx3_x2.vhd
+Z114 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/mx3_x2.vhd
+l0
+L1
+V7Qd=@6R8gnV9lTLmMZ7[12
+!s100 0:XRe6:W8J]Pe_k7fYcPT1
+R6
+R86
+Z115 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/mx3_x2.vhd|
+Z116 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/mx3_x2.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 mx3_x2 0 22 7Qd=@6R8gnV9lTLmMZ7[12
+R1
+32
+R79
+!i10b 1
+l49
+L47
+VOmBL1ez>@N9FVmKLG>T_a1
+!s100 eSJIWlEzW=aH[fV:PEWQi1
+R6
+R86
+R115
+R116
+!i113 1
+R10
+R11
+Emx3_x4
+R1
+32
+Z117 !s110 1476100547
+!i10b 1
+R3
+R0
+Z118 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/mx3_x4.vhd
+Z119 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/mx3_x4.vhd
+l0
+L1
+V?aJ4H:N4Hbc41B`[TDbf=0
+!s100 >Jc@DVFP?@Y_0zY<29@oQ1
+R6
+R86
+Z120 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/mx3_x4.vhd|
+Z121 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/mx3_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 mx3_x4 0 22 ?aJ4H:N4Hbc41B`[TDbf=0
+R1
+32
+R117
+!i10b 1
+l49
+L47
+VlgV^GLlPOX9T76PcY6Cag2
+!s100 809MeYk6DD5<h46dFC;F42
+R6
+R86
+R120
+R121
+!i113 1
+R10
+R11
+Ena2_x1
+R1
+32
+R117
+!i10b 1
+R3
+R0
+Z122 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na2_x1.vhd
+Z123 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na2_x1.vhd
+l0
+L1
+VkgCPV:^H=^N@I4Ie:5OZ[0
+!s100 >7?9c_M9[EH8OTZ`YeGS:2
+R6
+Z124 !s108 1476100547.000000
+Z125 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na2_x1.vhd|
+Z126 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na2_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 na2_x1 0 22 kgCPV:^H=^N@I4Ie:5OZ[0
+R1
+32
+R117
+!i10b 1
+l27
+L25
+VQ0VS0M3hBnXbn`>[MijKf1
+!s100 ;[?YN3MEA]VWCz3:2ZzW=1
+R6
+R124
+R125
+R126
+!i113 1
+R10
+R11
+Ena2_x4
+R1
+32
+R117
+!i10b 1
+R3
+R0
+Z127 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na2_x4.vhd
+Z128 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na2_x4.vhd
+l0
+L1
+VhjV:Xh3T`^AJ9_Vo^]L161
+!s100 _DNEnlT=h`VGZRlndH2Zn3
+R6
+R124
+Z129 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na2_x4.vhd|
+Z130 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na2_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 na2_x4 0 22 hjV:Xh3T`^AJ9_Vo^]L161
+R1
+32
+R117
+!i10b 1
+l27
+L25
+VmOHD=hi=Jd4J[VV]g50kX3
+!s100 W[4FWACAh0DP6iLjg:85:1
+R6
+R124
+R129
+R130
+!i113 1
+R10
+R11
+Ena3_x1
+R1
+32
+R117
+!i10b 1
+R3
+R0
+Z131 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na3_x1.vhd
+Z132 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na3_x1.vhd
+l0
+L1
+VM8k0bjQ@P3f5>;^CQMLbc0
+!s100 ]QP=9D[^HRWG::WY^1K`M0
+R6
+R124
+Z133 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na3_x1.vhd|
+Z134 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na3_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 na3_x1 0 22 M8k0bjQ@P3f5>;^CQMLbc0
+R1
+32
+R117
+!i10b 1
+l33
+L31
+VXL0G1NQl4TVCH5jF2j:lz3
+!s100 CbD9XAB__YCgDH5I9N@gA2
+R6
+R124
+R133
+R134
+!i113 1
+R10
+R11
+Ena3_x4
+R1
+32
+Z135 !s110 1476100567
+!i10b 1
+R3
+R0
+Z136 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na3_x4.vhd
+Z137 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na3_x4.vhd
+l0
+L1
+VHnJ]Ik0CQ@SH^W@H^PN_62
+!s100 aJD;O^]j;h:@QleC92V>o1
+R6
+R124
+Z138 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na3_x4.vhd|
+Z139 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na3_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 na3_x4 0 22 HnJ]Ik0CQ@SH^W@H^PN_62
+R1
+32
+R135
+!i10b 1
+l33
+L31
+V;WNYog98^l2IW<=i^KzI51
+!s100 GiURkn4oLM_3TX5hN`6g31
+R6
+R124
+R138
+R139
+!i113 1
+R10
+R11
+Ena4_x1
+R1
+32
+R135
+!i10b 1
+R3
+R0
+Z140 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na4_x1.vhd
+Z141 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na4_x1.vhd
+l0
+L1
+VMXN8ZA1`85`Nnn^7gTCJb0
+!s100 hjT6[BL:lj?c]WPJGec_o2
+R6
+Z142 !s108 1476100567.000000
+Z143 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na4_x1.vhd|
+Z144 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na4_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 na4_x1 0 22 MXN8ZA1`85`Nnn^7gTCJb0
+R1
+32
+R135
+!i10b 1
+l39
+L37
+VmgnUC6AQYbM;fmjBoF8`O0
+!s100 hZ5AfIAf_=I5;R2gNkW411
+R6
+R142
+R143
+R144
+!i113 1
+R10
+R11
+Ena4_x4
+R1
+32
+R135
+!i10b 1
+R3
+R0
+Z145 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na4_x4.vhd
+Z146 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na4_x4.vhd
+l0
+L1
+VMHYn^DFz1MYMKM>UTN_1W1
+!s100 [QRK77ZYMQobMeV:Ha57b1
+R6
+R142
+Z147 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na4_x4.vhd|
+Z148 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/na4_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 na4_x4 0 22 MHYn^DFz1MYMKM>UTN_1W1
+R1
+32
+R135
+!i10b 1
+l39
+L37
+V3VzQZc<V1XNBAL?3b;8Ja3
+!s100 iHJLeLOeOO6Dm:he>:zze1
+R6
+R142
+R147
+R148
+!i113 1
+R10
+R11
+Enao22_x1
+R1
+32
+Z149 !s110 1476100568
+!i10b 1
+R3
+R0
+Z150 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nao22_x1.vhd
+Z151 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nao22_x1.vhd
+l0
+L1
+VWCdT1RA>fRK68TjU@;_On3
+!s100 AYXc7XI`BOk0bLocNnl^g1
+R6
+Z152 !s108 1476100568.000000
+Z153 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nao22_x1.vhd|
+Z154 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nao22_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 8 nao22_x1 0 22 WCdT1RA>fRK68TjU@;_On3
+R1
+32
+R149
+!i10b 1
+l33
+L31
+VNZB`F;b@0hCLFk17zf:U33
+!s100 Y<Cn_W@Y6cz]HzMRS1Z:i1
+R6
+R152
+R153
+R154
+!i113 1
+R10
+R11
+Enao22_x4
+R1
+32
+R149
+!i10b 1
+R3
+R0
+Z155 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nao22_x4.vhd
+Z156 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nao22_x4.vhd
+l0
+L1
+VcFFPY:Zh508i`Tc`U[??`2
+!s100 [^Ja46eX<d=[PzWg>XVo`3
+R6
+R152
+Z157 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nao22_x4.vhd|
+Z158 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nao22_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 8 nao22_x4 0 22 cFFPY:Zh508i`Tc`U[??`2
+R1
+32
+R149
+!i10b 1
+l33
+L31
+V3g>nU2^`IfcC=ENL4_lUM1
+!s100 >lC]1F8_Wg0hXQ@E4XE<53
+R6
+R152
+R157
+R158
+!i113 1
+R10
+R11
+Enao2o22_x1
+R1
+32
+R135
+!i10b 1
+R3
+R0
+Z159 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nao2o22_x1.vhd
+Z160 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nao2o22_x1.vhd
+l0
+L1
+VhO><XAS0aE6X5mb@G21cU2
+!s100 1X=CaA1WmUdg>C@B>EM`D2
+R6
+R142
+Z161 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nao2o22_x1.vhd|
+Z162 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nao2o22_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 10 nao2o22_x1 0 22 hO><XAS0aE6X5mb@G21cU2
+R1
+32
+R135
+!i10b 1
+l39
+L37
+VhBfE@^8ea?ML`JMCXd2Lf3
+!s100 4OCn5cK3;HkonE9PA=DOY2
+R6
+R142
+R161
+R162
+!i113 1
+R10
+R11
+Enao2o22_x4
+R1
+32
+R149
+!i10b 1
+R3
+R0
+Z163 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nao2o22_x4.vhd
+Z164 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nao2o22_x4.vhd
+l0
+L1
+VOATj_2USI`_3:C8>iIZhF0
+!s100 NBK?RF8b=hD8W8LzYVbc]2
+R6
+R142
+Z165 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nao2o22_x4.vhd|
+Z166 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nao2o22_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 10 nao2o22_x4 0 22 OATj_2USI`_3:C8>iIZhF0
+R1
+32
+R149
+!i10b 1
+l39
+L37
+VTEEdDUXHkM`U5aB9XzBh31
+!s100 AT>GMU<jn:MGQN_A]NRY]3
+R6
+R142
+R165
+R166
+!i113 1
+R10
+R11
+Enmx2_x1
+R1
+32
+R149
+!i10b 1
+R3
+R0
+Z167 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nmx2_x1.vhd
+Z168 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nmx2_x1.vhd
+l0
+L1
+VIgTe6bkOZ==lPCYD<ZSdc2
+!s100 iL=VL?ROGV;S4R`=A`fgV1
+R6
+R152
+Z169 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nmx2_x1.vhd|
+Z170 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nmx2_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 7 nmx2_x1 0 22 IgTe6bkOZ==lPCYD<ZSdc2
+R1
+32
+R149
+!i10b 1
+l35
+L33
+VV:1_Nh=cCNh`[22HE?hWb3
+!s100 I?TW3AcZP4A_KM_S3YLcX2
+R6
+R152
+R169
+R170
+!i113 1
+R10
+R11
+Enmx2_x4
+R1
+32
+R149
+!i10b 1
+R3
+R0
+Z171 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nmx2_x4.vhd
+Z172 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nmx2_x4.vhd
+l0
+L1
+V[@:042053ShNLJT9=_Nf:0
+!s100 2LgHn58mn0EAc>X=CjQ<z1
+R6
+R152
+Z173 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nmx2_x4.vhd|
+Z174 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nmx2_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 7 nmx2_x4 0 22 [@:042053ShNLJT9=_Nf:0
+R1
+32
+R149
+!i10b 1
+l35
+L33
+Vm3ON^97N^n4OXGUhZV1M10
+!s100 [9O88Z;Ahm<0h]`jUT?X<0
+R6
+R152
+R173
+R174
+!i113 1
+R10
+R11
+Enmx3_x1
+R1
+32
+R149
+!i10b 1
+R3
+R0
+Z175 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nmx3_x1.vhd
+Z176 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nmx3_x1.vhd
+l0
+L1
+VF@@faU<oFkM9mgZPP`@6F0
+!s100 =PcbePO2Mj@Y5Aa8=4PLm2
+R6
+R152
+Z177 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nmx3_x1.vhd|
+Z178 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nmx3_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 7 nmx3_x1 0 22 F@@faU<oFkM9mgZPP`@6F0
+R1
+32
+R149
+!i10b 1
+l49
+L47
+V5b>cI49cgbj6hzlNaMz`Y0
+!s100 PM7TkSeGW?cSLFco;RT_K3
+R6
+R152
+R177
+R178
+!i113 1
+R10
+R11
+Enmx3_x4
+R1
+32
+R149
+!i10b 1
+R3
+R0
+Z179 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nmx3_x4.vhd
+Z180 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nmx3_x4.vhd
+l0
+L1
+VEO`9[i:odTH6FCYB`;m@j2
+!s100 Y3>G_hdd0227ddJg`h?:[1
+R6
+R152
+Z181 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nmx3_x4.vhd|
+Z182 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nmx3_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 7 nmx3_x4 0 22 EO`9[i:odTH6FCYB`;m@j2
+R1
+32
+R149
+!i10b 1
+l49
+L47
+V@:WM1M9>[eA_zKS:?`3Fe0
+!s100 an3]0T9Z>BPd[m;fIGLP_3
+R6
+R152
+R181
+R182
+!i113 1
+R10
+R11
+Eno2_x1
+R1
+32
+Z183 !s110 1476100569
+!i10b 1
+R3
+R0
+Z184 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no2_x1.vhd
+Z185 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no2_x1.vhd
+l0
+L1
+VVOR_0nXH7;a:UFN@J73eN0
+!s100 F8zljcEVJ:NN9_WFeC<A03
+R6
+R152
+Z186 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no2_x1.vhd|
+Z187 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no2_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 no2_x1 0 22 VOR_0nXH7;a:UFN@J73eN0
+R1
+32
+R183
+!i10b 1
+l27
+L25
+V_^fzI^aAPbfk_C`ZM^aaa0
+!s100 Q[KMCfgmem4Q<OmSo>`lP1
+R6
+R152
+R186
+R187
+!i113 1
+R10
+R11
+Eno2_x4
+R1
+32
+R183
+!i10b 1
+R3
+R0
+Z188 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no2_x4.vhd
+Z189 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no2_x4.vhd
+l0
+L1
+V^ToKoPPUo`Uhn>og?MQAR2
+!s100 jJ5aOVV[cA_hlj`gWzfS60
+R6
+Z190 !s108 1476100569.000000
+Z191 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no2_x4.vhd|
+Z192 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no2_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 no2_x4 0 22 ^ToKoPPUo`Uhn>og?MQAR2
+R1
+32
+R183
+!i10b 1
+l27
+L25
+V[LLJISj4[Hnig;XRfo@M13
+!s100 E4b3<1B^S]EVNA6ZDmG5j0
+R6
+R190
+R191
+R192
+!i113 1
+R10
+R11
+Eno3_x1
+R1
+32
+R183
+!i10b 1
+R3
+R0
+Z193 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no3_x1.vhd
+Z194 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no3_x1.vhd
+l0
+L1
+VTQY<bZ>CFMhaOk69b]BgU1
+!s100 46eDI@G?k8Eb@mBM3fTkl2
+R6
+R190
+Z195 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no3_x1.vhd|
+Z196 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no3_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 no3_x1 0 22 TQY<bZ>CFMhaOk69b]BgU1
+R1
+32
+R183
+!i10b 1
+l33
+L31
+VU]BkK@UjZK0l1?nCc@eb@1
+!s100 D^XfUYK4nO[V<FSgPgikE1
+R6
+R190
+R195
+R196
+!i113 1
+R10
+R11
+Eno3_x4
+R1
+32
+R183
+!i10b 1
+R3
+R0
+Z197 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no3_x4.vhd
+Z198 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no3_x4.vhd
+l0
+L1
+V7db@011k8Q8^Vak7zj>GC2
+!s100 U>1XS87WZ5=bN:l^YHkC42
+R6
+R190
+Z199 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no3_x4.vhd|
+Z200 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no3_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 no3_x4 0 22 7db@011k8Q8^Vak7zj>GC2
+R1
+32
+R183
+!i10b 1
+l33
+L31
+V^V_M>Nmc[<66h>9ih8ZI20
+!s100 MX=ZTQ=z?FcUFJjV@6F[X0
+R6
+R190
+R199
+R200
+!i113 1
+R10
+R11
+Eno4_x1
+R1
+32
+R183
+!i10b 1
+R3
+R0
+Z201 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no4_x1.vhd
+Z202 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no4_x1.vhd
+l0
+L1
+VfmUz_FGGgkN^dKGAi4Tzz0
+!s100 Nc3eBo@cJmk[Q_8A<7>_D2
+R6
+R190
+Z203 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no4_x1.vhd|
+Z204 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no4_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 no4_x1 0 22 fmUz_FGGgkN^dKGAi4Tzz0
+R1
+32
+R183
+!i10b 1
+l39
+L37
+VhYPHFEBDOoT4BWG1`^Jh<0
+!s100 JWh@[=0onBJGK3lCO]I_n3
+R6
+R190
+R203
+R204
+!i113 1
+R10
+R11
+Eno4_x4
+R1
+32
+R183
+!i10b 1
+R3
+R0
+Z205 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no4_x4.vhd
+Z206 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no4_x4.vhd
+l0
+L1
+VJ6Y:k;dhFRbEk749YQDoD0
+!s100 [ggZe>6JN4QaJBiUBH>K:1
+R6
+R190
+Z207 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no4_x4.vhd|
+Z208 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/no4_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 no4_x4 0 22 J6Y:k;dhFRbEk749YQDoD0
+R1
+32
+R183
+!i10b 1
+l39
+L37
+VH2Cm18:[E0:fPaDRYn@Vk0
+!s100 9_^91ieKnQE`<MlAXAAmJ0
+R6
+R190
+R207
+R208
+!i113 1
+R10
+R11
+Enoa22_x1
+R1
+32
+Z209 !s110 1476100571
+!i10b 1
+R3
+R0
+Z210 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa22_x1.vhd
+Z211 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa22_x1.vhd
+l0
+L1
+V@<X@h36d5f<2hIZ4<8I]G2
+!s100 MfD[je6m[8WW8gncP[n>d0
+R6
+Z212 !s108 1476100570.000000
+Z213 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa22_x1.vhd|
+Z214 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa22_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 8 noa22_x1 0 22 @<X@h36d5f<2hIZ4<8I]G2
+R1
+32
+R209
+!i10b 1
+l33
+L31
+VKaE78?>m0am]WKY6]7O4f2
+!s100 d<d?UWQYK?6eELGKU^G@l1
+R6
+R212
+R213
+R214
+!i113 1
+R10
+R11
+Enoa22_x4
+R1
+32
+R209
+!i10b 1
+R3
+R0
+Z215 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa22_x4.vhd
+Z216 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa22_x4.vhd
+l0
+L1
+V]3gjVHWoQ2>^2PKH^3PnW1
+!s100 4]=J]e9XDS=E<?mWMTdgV1
+R6
+Z217 !s108 1476100571.000000
+Z218 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa22_x4.vhd|
+Z219 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa22_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 8 noa22_x4 0 22 ]3gjVHWoQ2>^2PKH^3PnW1
+R1
+32
+R209
+!i10b 1
+l33
+L31
+V_0TV_4ERNRNdh`mO5I[m<0
+!s100 A^J0RaE:9FMd_6_7cFKIF2
+R6
+R217
+R218
+R219
+!i113 1
+R10
+R11
+Enoa2a22_x1
+R1
+32
+Z220 !s110 1476100570
+!i10b 1
+R3
+R0
+Z221 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a22_x1.vhd
+Z222 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a22_x1.vhd
+l0
+L1
+V<fj`UFbXz2`]oc[TL3`fa1
+!s100 RUa=?^?A>L1R?@T3]`]>i0
+R6
+R212
+Z223 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a22_x1.vhd|
+Z224 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a22_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 10 noa2a22_x1 0 22 <fj`UFbXz2`]oc[TL3`fa1
+R1
+32
+R220
+!i10b 1
+l39
+L37
+VAWe1aCb^P5jNQcM5CC[<n0
+!s100 o[CBYDFlJWUU72oUiAjWm1
+R6
+R212
+R223
+R224
+!i113 1
+R10
+R11
+Enoa2a22_x4
+R1
+32
+R220
+!i10b 1
+R3
+R0
+Z225 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a22_x4.vhd
+Z226 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a22_x4.vhd
+l0
+L1
+VXnheKnQbCba2^_>;dY8QD0
+!s100 T_JiOLGfeYTcbmJVU]]YG1
+R6
+R212
+Z227 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a22_x4.vhd|
+Z228 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a22_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 10 noa2a22_x4 0 22 XnheKnQbCba2^_>;dY8QD0
+R1
+32
+R220
+!i10b 1
+l39
+L37
+Vc=Lh^bGe<4:CFlYB2Aa2L1
+!s100 PYKc]C_milD2BN02O^`N=1
+R6
+R212
+R227
+R228
+!i113 1
+R10
+R11
+Enoa2a2a23_x1
+R1
+32
+R220
+!i10b 1
+R3
+R0
+Z229 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a2a23_x1.vhd
+Z230 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a2a23_x1.vhd
+l0
+L1
+VK2fSM6OFO;3PAI]i?Db<01
+!s100 0[T7o^JHnL?Sgf?QNJYV:2
+R6
+R212
+Z231 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a2a23_x1.vhd|
+Z232 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a2a23_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 12 noa2a2a23_x1 0 22 K2fSM6OFO;3PAI]i?Db<01
+R1
+32
+R220
+!i10b 1
+l51
+L49
+VMIVF3oSXYhfBS3l1[VK0T3
+!s100 VP;?Jf1EFNQ=ZO<V_bnNg3
+R6
+R212
+R231
+R232
+!i113 1
+R10
+R11
+Enoa2a2a23_x4
+R1
+32
+R220
+!i10b 1
+R3
+R0
+Z233 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a2a23_x4.vhd
+Z234 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a2a23_x4.vhd
+l0
+L1
+V2I:NbGm[5K1APf@PlzcI32
+!s100 AKHHmTFXhfbf4D:cOX0[93
+R6
+R212
+Z235 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a2a23_x4.vhd|
+Z236 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a2a23_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 12 noa2a2a23_x4 0 22 2I:NbGm[5K1APf@PlzcI32
+R1
+32
+R220
+!i10b 1
+l51
+L49
+V13JXnbnNeGfL^9ECUKgh73
+!s100 L<<=98?Rk:1?=Z4]@;6SN1
+R6
+R212
+R235
+R236
+!i113 1
+R10
+R11
+Enoa2a2a2a24_x1
+R1
+32
+R183
+!i10b 1
+R3
+R0
+Z237 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a2a2a24_x1.vhd
+Z238 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a2a2a24_x1.vhd
+l0
+L1
+VFK>bDea6Id3JfC`SefkeB1
+!s100 Rbiem>kE`BR8VI3z=Md;40
+R6
+R190
+Z239 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a2a2a24_x1.vhd|
+Z240 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a2a2a24_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 14 noa2a2a2a24_x1 0 22 FK>bDea6Id3JfC`SefkeB1
+R1
+32
+R183
+!i10b 1
+l63
+L61
+V8oK3jA0Pf9zf4aJoR@ETB3
+!s100 <Y5FRLoSX8dbfY4_34iZj3
+R6
+R190
+R239
+R240
+!i113 1
+R10
+R11
+Enoa2a2a2a24_x4
+R1
+32
+R183
+!i10b 1
+R3
+R0
+Z241 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a2a2a24_x4.vhd
+Z242 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a2a2a24_x4.vhd
+l0
+L1
+V]zLn8mW]mBA^;C]VggfU=1
+!s100 HkTXgYA6Q@ARQ4i>_kz@]1
+R6
+R190
+Z243 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a2a2a24_x4.vhd|
+Z244 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2a2a2a24_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 14 noa2a2a2a24_x4 0 22 ]zLn8mW]mBA^;C]VggfU=1
+R1
+32
+R183
+!i10b 1
+l63
+L61
+V6E]GIX;=KX:CnV3Q@19ea0
+!s100 aWE?AhR^Gdk`oUaEPeW7A1
+R6
+R190
+R243
+R244
+!i113 1
+R10
+R11
+Enoa2ao222_x1
+R1
+32
+R220
+!i10b 1
+R3
+R0
+Z245 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2ao222_x1.vhd
+Z246 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2ao222_x1.vhd
+l0
+L1
+V4<zBM7<h=QJ6n?Li]VHo^0
+!s100 =l^kY=?3T_iJSaZPEFAmN2
+R6
+R212
+Z247 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2ao222_x1.vhd|
+Z248 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2ao222_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 12 noa2ao222_x1 0 22 4<zBM7<h=QJ6n?Li]VHo^0
+R1
+32
+R220
+!i10b 1
+l45
+L43
+Vm4>knS0ob[BW]kS8eT0:]2
+!s100 c;50SCie<=UPSGzenaB[S2
+R6
+R212
+R247
+R248
+!i113 1
+R10
+R11
+Enoa2ao222_x4
+R1
+32
+R220
+!i10b 1
+R3
+R0
+Z249 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2ao222_x4.vhd
+Z250 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2ao222_x4.vhd
+l0
+L1
+V:[cGWjae9S:;;^A?ji[<h2
+!s100 ;_f@7UMHIL5bN8A10f7203
+R6
+R212
+Z251 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2ao222_x4.vhd|
+Z252 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa2ao222_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 12 noa2ao222_x4 0 22 :[cGWjae9S:;;^A?ji[<h2
+R1
+32
+R220
+!i10b 1
+l45
+L43
+VcVbTYz[];bejTE=?ZhEEI0
+!s100 S2LYJK<e8R<h01T0ezY5R3
+R6
+R212
+R251
+R252
+!i113 1
+R10
+R11
+Enoa3ao322_x1
+R1
+32
+R220
+!i10b 1
+R3
+R0
+Z253 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa3ao322_x1.vhd
+Z254 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa3ao322_x1.vhd
+l0
+L1
+VZ`8_2SmiFIKezP=2IJFYT0
+!s100 iWZGBMN;XZ:76IJ7QFjeA3
+R6
+R212
+Z255 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa3ao322_x1.vhd|
+Z256 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa3ao322_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 12 noa3ao322_x1 0 22 Z`8_2SmiFIKezP=2IJFYT0
+R1
+32
+R220
+!i10b 1
+l57
+L55
+V7VNQS>M^@25V?a2jenmYl0
+!s100 kL3Wc<g95]@7a^48_W>_a2
+R6
+R212
+R255
+R256
+!i113 1
+R10
+R11
+Enoa3ao322_x4
+R1
+32
+R220
+!i10b 1
+R3
+R0
+Z257 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa3ao322_x4.vhd
+Z258 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa3ao322_x4.vhd
+l0
+L1
+VTkbFO:fWSR6OfcTkPL`U51
+!s100 E]NBkf8FcI`HSX1jRzZF<0
+R6
+R212
+Z259 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa3ao322_x4.vhd|
+Z260 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/noa3ao322_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 12 noa3ao322_x4 0 22 TkbFO:fWSR6OfcTkPL`U51
+R1
+32
+R220
+!i10b 1
+l57
+L55
+V9n=m7H<_z<anFbPRG819W0
+!s100 jaG?=09OeD]ZB;cOIPcDD3
+R6
+R212
+R259
+R260
+!i113 1
+R10
+R11
+Enxr2_x1
+R1
+32
+R209
+!i10b 1
+R3
+R0
+Z261 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nxr2_x1.vhd
+Z262 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nxr2_x1.vhd
+l0
+L1
+V_1j<ajK=R6NC2i58IO?zM1
+!s100 lXO]S:JJBEBjDICAXeLz<3
+R6
+R217
+Z263 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nxr2_x1.vhd|
+Z264 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nxr2_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 7 nxr2_x1 0 22 _1j<ajK=R6NC2i58IO?zM1
+R1
+32
+R209
+!i10b 1
+l31
+L29
+V`Z8QD[21GghdBf_fK[_ZY0
+!s100 ;dPBm9[HJhAS`;b5T6cZ>2
+R6
+R217
+R263
+R264
+!i113 1
+R10
+R11
+Enxr2_x4
+R1
+32
+R209
+!i10b 1
+R3
+R0
+Z265 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nxr2_x4.vhd
+Z266 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nxr2_x4.vhd
+l0
+L1
+V7]88g]hREJhIlznjBVCP^0
+!s100 ]bNC96@U2X8ZO[00SF2Do1
+R6
+R217
+Z267 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nxr2_x4.vhd|
+Z268 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/nxr2_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 7 nxr2_x4 0 22 7]88g]hREJhIlznjBVCP^0
+R1
+32
+R209
+!i10b 1
+l31
+L29
+V^Ucb2_Q;9_P1GZND6d;lf3
+!s100 SIeVL0LYOUeffF89n73MP3
+R6
+R217
+R267
+R268
+!i113 1
+R10
+R11
+Eo2_x2
+R1
+32
+R209
+!i10b 1
+R3
+R0
+Z269 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o2_x2.vhd
+Z270 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o2_x2.vhd
+l0
+L1
+Vnb:`CZ<R>U<No2IeW=oF=0
+!s100 m^RLiojlTJcGOGRF?ke:c2
+R6
+R217
+Z271 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o2_x2.vhd|
+Z272 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o2_x2.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 5 o2_x2 0 22 nb:`CZ<R>U<No2IeW=oF=0
+R1
+32
+R209
+!i10b 1
+l27
+L25
+V9;]CW2S=4d8BnBHUbmQG32
+!s100 5d9a;:RU]7TOHOIe4^7IN3
+R6
+R217
+R271
+R272
+!i113 1
+R10
+R11
+Eo2_x4
+R1
+32
+R209
+!i10b 1
+R3
+R0
+Z273 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o2_x4.vhd
+Z274 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o2_x4.vhd
+l0
+L1
+VJK`<j0;9jMT?FSm:o?;H52
+!s100 dfBTShV=:8;g0cI04]6<c3
+R6
+R217
+Z275 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o2_x4.vhd|
+Z276 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o2_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 5 o2_x4 0 22 JK`<j0;9jMT?FSm:o?;H52
+R1
+32
+R209
+!i10b 1
+l27
+L25
+VLJjRfYoI6GB]l`24X[4650
+!s100 QZR2@85J[gRR6RcA?QAf@0
+R6
+R217
+R275
+R276
+!i113 1
+R10
+R11
+Eo3_x2
+R1
+32
+R209
+!i10b 1
+R3
+R0
+Z277 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o3_x2.vhd
+Z278 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o3_x2.vhd
+l0
+L1
+V9cG]]N]32MdjGeV1=fGom2
+!s100 KmN^7[@=F5?>X9S]RJUU30
+R6
+R217
+Z279 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o3_x2.vhd|
+Z280 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o3_x2.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 5 o3_x2 0 22 9cG]]N]32MdjGeV1=fGom2
+R1
+32
+R209
+!i10b 1
+l33
+L31
+Va_nCB<O:RCe:dAXCQhDkb3
+!s100 Ok<I73UXNZP40lYPbchBV2
+R6
+R217
+R279
+R280
+!i113 1
+R10
+R11
+Eo3_x4
+R1
+32
+Z281 !s110 1476100572
+!i10b 1
+R3
+R0
+Z282 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o3_x4.vhd
+Z283 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o3_x4.vhd
+l0
+L1
+VUB9SimPP[MH5F9zZJY9Qc2
+!s100 GQN[:BRAAW8jIZ[RKDOOJ1
+R6
+Z284 !s108 1476100572.000000
+Z285 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o3_x4.vhd|
+Z286 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o3_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 5 o3_x4 0 22 UB9SimPP[MH5F9zZJY9Qc2
+R1
+32
+R281
+!i10b 1
+l33
+L31
+VCWDSN]aQWVU]h4i7HO:?e1
+!s100 5oiannzK4AmFkAm?od1Tk2
+R6
+R284
+R285
+R286
+!i113 1
+R10
+R11
+Eo4_x2
+R1
+32
+R281
+!i10b 1
+R3
+R0
+Z287 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o4_x2.vhd
+Z288 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o4_x2.vhd
+l0
+L1
+V1ESfd^9jQ>gkl3J85QjTH1
+!s100 EP70Qh2OQEkQXD6LU4ni:0
+R6
+R284
+Z289 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o4_x2.vhd|
+Z290 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o4_x2.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 5 o4_x2 0 22 1ESfd^9jQ>gkl3J85QjTH1
+R1
+32
+R281
+!i10b 1
+l39
+L37
+VJ2W1zoNiI7geX6?@OWa9P2
+!s100 >bGJDZmRYc4Hc^h:MRYT^3
+R6
+R284
+R289
+R290
+!i113 1
+R10
+R11
+Eo4_x4
+R1
+32
+R281
+!i10b 1
+R3
+R0
+Z291 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o4_x4.vhd
+Z292 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o4_x4.vhd
+l0
+L1
+VK<>B_9c`]Wm3?89D^B`LB3
+!s100 ;MY]0N`EeYOcEC5D=>I0[1
+R6
+R284
+Z293 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o4_x4.vhd|
+Z294 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/o4_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 5 o4_x4 0 22 K<>B_9c`]Wm3?89D^B`LB3
+R1
+32
+R281
+!i10b 1
+l39
+L37
+VLVU2T:UfKT>X`VcZ]zSHM1
+!s100 ?5C2daHGTLQ4T7VkLbEQJ0
+R6
+R284
+R293
+R294
+!i113 1
+R10
+R11
+Eoa22_x2
+R1
+32
+Z295 !s110 1476100573
+!i10b 1
+R3
+R0
+Z296 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa22_x2.vhd
+Z297 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa22_x2.vhd
+l0
+L1
+VM:1NkOzNk[]URHY6zhZYe3
+!s100 =@_:F[DXDbHL6TDJ=D9zz0
+R6
+Z298 !s108 1476100573.000000
+Z299 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa22_x2.vhd|
+Z300 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa22_x2.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 7 oa22_x2 0 22 M:1NkOzNk[]URHY6zhZYe3
+R1
+32
+R295
+!i10b 1
+l33
+L31
+V]]KI0>EkE6enXOAlNl]Tk1
+!s100 ol9Jc<>ejnUCzNXV8NaII1
+R6
+R298
+R299
+R300
+!i113 1
+R10
+R11
+Eoa22_x4
+R1
+32
+R295
+!i10b 1
+R3
+R0
+Z301 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa22_x4.vhd
+Z302 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa22_x4.vhd
+l0
+L1
+Vm`:6DlFzjLJWgT^NaSOKR0
+!s100 jOiNV^jfb6Q5n@8WG^NAV2
+R6
+R298
+Z303 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa22_x4.vhd|
+Z304 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa22_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 7 oa22_x4 0 22 m`:6DlFzjLJWgT^NaSOKR0
+R1
+32
+R295
+!i10b 1
+l33
+L31
+VPjgo_Q5LHGUJ7F[aggiH>3
+!s100 Pi[aS];6eGW4c7X9BUn8O1
+R6
+R298
+R303
+R304
+!i113 1
+R10
+R11
+Eoa2a22_x2
+R1
+32
+R281
+!i10b 1
+R3
+R0
+Z305 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a22_x2.vhd
+Z306 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a22_x2.vhd
+l0
+L1
+VeQSJd0Do:`27]SMO6E2kD1
+!s100 dkB>gnnQ]ZQ=oZ425oHnd0
+R6
+R284
+Z307 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a22_x2.vhd|
+Z308 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a22_x2.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 9 oa2a22_x2 0 22 eQSJd0Do:`27]SMO6E2kD1
+R1
+32
+R281
+!i10b 1
+l39
+L37
+V09FKWXi`>C7eCeBEf0kbf3
+!s100 JezUSNhLWaL8^JgY`3E5F1
+R6
+R284
+R307
+R308
+!i113 1
+R10
+R11
+Eoa2a22_x4
+R1
+32
+R295
+!i10b 1
+R3
+R0
+Z309 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a22_x4.vhd
+Z310 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a22_x4.vhd
+l0
+L1
+V@lWFee0DVJae7mKA_cT250
+!s100 2]LS`Rn6dIPlFbG^lY^Z73
+R6
+R284
+Z311 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a22_x4.vhd|
+Z312 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a22_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 9 oa2a22_x4 0 22 @lWFee0DVJae7mKA_cT250
+R1
+32
+R295
+!i10b 1
+l39
+L37
+Vh5Jd1MB5Tm>2FKkVN3d9C1
+!s100 AJME[;G99cZZZhJd0bJa>1
+R6
+R284
+R311
+R312
+!i113 1
+R10
+R11
+Eoa2a2a23_x2
+R1
+32
+R281
+!i10b 1
+R3
+R0
+Z313 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a2a23_x2.vhd
+Z314 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a2a23_x2.vhd
+l0
+L1
+V[WYmgho=ocMQXPN[38FUL3
+!s100 ;k_kfbYmH;ffLmhWCj>fD1
+R6
+R284
+Z315 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a2a23_x2.vhd|
+Z316 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a2a23_x2.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 11 oa2a2a23_x2 0 22 [WYmgho=ocMQXPN[38FUL3
+R1
+32
+R281
+!i10b 1
+l51
+L49
+V@DG4dm8I>Hcci0KeWg<_b3
+!s100 ZEGYfTCU]Kl_J[]Q>:9E23
+R6
+R284
+R315
+R316
+!i113 1
+R10
+R11
+Eoa2a2a23_x4
+R1
+32
+R281
+!i10b 1
+R3
+R0
+Z317 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a2a23_x4.vhd
+Z318 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a2a23_x4.vhd
+l0
+L1
+VhSQS3]QYU[fY>KAl]69T<0
+!s100 OeK0zF>SNUdA?QAP6<=gk0
+R6
+R284
+Z319 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a2a23_x4.vhd|
+Z320 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a2a23_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 11 oa2a2a23_x4 0 22 hSQS3]QYU[fY>KAl]69T<0
+R1
+32
+R281
+!i10b 1
+l51
+L49
+V;Fg8ALZ;T1GT1ZV@V<bHZ0
+!s100 0d:7GLbW_FbPV]9zli^3Y1
+R6
+R284
+R319
+R320
+!i113 1
+R10
+R11
+Eoa2a2a2a24_x2
+R1
+32
+R281
+!i10b 1
+R3
+R0
+Z321 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a2a2a24_x2.vhd
+Z322 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a2a2a24_x2.vhd
+l0
+L1
+V45N2>H>^]e91UH40`952L2
+!s100 HSDP]Q@aMD69_PPzQ?QcL0
+R6
+R284
+Z323 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a2a2a24_x2.vhd|
+Z324 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a2a2a24_x2.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 13 oa2a2a2a24_x2 0 22 45N2>H>^]e91UH40`952L2
+R1
+32
+R281
+!i10b 1
+l63
+L61
+VGH9Djk4@bEhcIZ@JOCgJG3
+!s100 P5O813dWQcNj[lch]jLHT3
+R6
+R284
+R323
+R324
+!i113 1
+R10
+R11
+Eoa2a2a2a24_x4
+R1
+32
+R281
+!i10b 1
+R3
+R0
+Z325 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a2a2a24_x4.vhd
+Z326 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a2a2a24_x4.vhd
+l0
+L1
+VLH?FU::GY3AaUk7Q6CSeP1
+!s100 h5mY>jJfXQi=9L>8QVj930
+R6
+R284
+Z327 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a2a2a24_x4.vhd|
+Z328 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2a2a2a24_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 13 oa2a2a2a24_x4 0 22 LH?FU::GY3AaUk7Q6CSeP1
+R1
+32
+R281
+!i10b 1
+l63
+L61
+V9kHHMQfmDY7]65Z;LR^`d3
+!s100 Tg96_?Zz^jn_A8K?Kn2GW1
+R6
+R284
+R327
+R328
+!i113 1
+R10
+R11
+Eoa2ao222_x2
+R1
+32
+R295
+!i10b 1
+R3
+R0
+Z329 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2ao222_x2.vhd
+Z330 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2ao222_x2.vhd
+l0
+L1
+V:zhl=@C7SR@Zbj8Il`<hc2
+!s100 KQWNHM@XS2UBfJR_QOD=C0
+R6
+R298
+Z331 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2ao222_x2.vhd|
+Z332 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2ao222_x2.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 11 oa2ao222_x2 0 22 :zhl=@C7SR@Zbj8Il`<hc2
+R1
+32
+R295
+!i10b 1
+l45
+L43
+VhWzzmO4la8?JHBL;<bmb]3
+!s100 9j1CT6:Qk:H_Dim9^Z`]^0
+R6
+R298
+R331
+R332
+!i113 1
+R10
+R11
+Eoa2ao222_x4
+R1
+32
+R295
+!i10b 1
+R3
+R0
+Z333 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2ao222_x4.vhd
+Z334 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2ao222_x4.vhd
+l0
+L1
+V=UFEcWhL?AR]7`LK:[EYc3
+!s100 mXzLP]3AFokold6=>cfRJ2
+R6
+R298
+Z335 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2ao222_x4.vhd|
+Z336 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa2ao222_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 11 oa2ao222_x4 0 22 =UFEcWhL?AR]7`LK:[EYc3
+R1
+32
+R295
+!i10b 1
+l45
+L43
+VNL;2B=178_U:;@kQgFzUn1
+!s100 GJdFGP;C9;U31=ZP4Io0M0
+R6
+R298
+R335
+R336
+!i113 1
+R10
+R11
+Eoa3ao322_x2
+R1
+32
+R295
+!i10b 1
+R3
+R0
+Z337 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa3ao322_x2.vhd
+Z338 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa3ao322_x2.vhd
+l0
+L1
+V7cjUK[Pe_fW4O5?G?dR]02
+!s100 >WLIl5h[=^`IGg6D`K?aG3
+R6
+R298
+Z339 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa3ao322_x2.vhd|
+Z340 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa3ao322_x2.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 11 oa3ao322_x2 0 22 7cjUK[Pe_fW4O5?G?dR]02
+R1
+32
+R295
+!i10b 1
+l57
+L55
+V[jI@7E>EP`OFnfD<5DeLe1
+!s100 nn=:znmD1JDQW3KE`4@4P3
+R6
+R298
+R339
+R340
+!i113 1
+R10
+R11
+Eoa3ao322_x4
+R1
+32
+R295
+!i10b 1
+R3
+R0
+Z341 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa3ao322_x4.vhd
+Z342 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa3ao322_x4.vhd
+l0
+L1
+VLaAG?o`RISo5[SOWzR?:V3
+!s100 8=0Il8@XC94YF;T@4`DQP1
+R6
+R298
+Z343 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa3ao322_x4.vhd|
+Z344 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/oa3ao322_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 11 oa3ao322_x4 0 22 LaAG?o`RISo5[SOWzR?:V3
+R1
+32
+R295
+!i10b 1
+l57
+L55
+Vj6GFelO4DPIiLnO7]d>UU0
+!s100 U`:XVeX`SUN1SF9Tbgn@m1
+R6
+R298
+R343
+R344
+!i113 1
+R10
+R11
+Eon12_x1
+R1
+32
+R295
+!i10b 1
+R3
+R0
+Z345 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/on12_x1.vhd
+Z346 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/on12_x1.vhd
+l0
+L1
+VUKATWMOd<Lm:I[JiNSCiE1
+!s100 LmG5fFTL_A_7zk7LoYBGL3
+R6
+R298
+Z347 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/on12_x1.vhd|
+Z348 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/on12_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 7 on12_x1 0 22 UKATWMOd<Lm:I[JiNSCiE1
+R1
+32
+R295
+!i10b 1
+l27
+L25
+VVjYhJ5lnliZDOZ=9lHkWk1
+!s100 _30j][97Voe]QT3h>]nc83
+R6
+R298
+R347
+R348
+!i113 1
+R10
+R11
+Eon12_x4
+R1
+32
+Z349 !s110 1476100574
+!i10b 1
+R3
+R0
+Z350 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/on12_x4.vhd
+Z351 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/on12_x4.vhd
+l0
+L1
+VRY<zD[YR2W2<^2bh<ceWI1
+!s100 VcDY=MPeG`1057YZCUd:X3
+R6
+R298
+Z352 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/on12_x4.vhd|
+Z353 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/on12_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 7 on12_x4 0 22 RY<zD[YR2W2<^2bh<ceWI1
+R1
+32
+R349
+!i10b 1
+l27
+L25
+V2SCX=JWVY01G<^hD<az?f0
+!s100 373TXfX<S>Vk;W2WShb<70
+R6
+R298
+R352
+R353
+!i113 1
+R10
+R11
+Eone_x0
+R1
+32
+Z354 !s110 1476103969
+!i10b 1
+Z355 w1476103961
+R0
+Z356 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/one_x0.vhd
+Z357 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/one_x0.vhd
+l0
+L1
+VLbI=Rfz9b6SohoVO;B4L_0
+!s100 4`D9[z4AGOJW<d4cV<[Vi3
+R6
+Z358 !s108 1476103969.000000
+Z359 !s90 -reportprogress|300|-work|sxlib|-O0|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/one_x0.vhd|
+Z360 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/one_x0.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 one_x0 0 22 LbI=Rfz9b6SohoVO;B4L_0
+R1
+32
+R354
+!i10b 1
+l15
+L13
+VKM;g]jG8^BWFlZSN23Ma_2
+!s100 <@E<_6Bl[GoH]Ye0fVl7F1
+R6
+R358
+R359
+R360
+!i113 1
+R10
+R11
+Epowmid_x0
+R1
+32
+Z361 !s110 1476104099
+!i10b 1
+Z362 w1476104062
+R0
+Z363 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/powmid_x0.vhd
+Z364 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/powmid_x0.vhd
+l0
+L1
+V3l=^5nizLHeOJzV[<Z]4h0
+!s100 9CjRI7cN;13_GhC^iTdaT2
+R6
+Z365 !s108 1476104099.000000
+Z366 !s90 -reportprogress|300|-work|sxlib|-O0|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/powmid_x0.vhd|
+Z367 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/powmid_x0.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 9 powmid_x0 0 22 3l=^5nizLHeOJzV[<Z]4h0
+R1
+32
+R361
+!i10b 1
+l14
+L12
+V`@Te3f8z4LUI4e8CIAkBT1
+!s100 XfW8=j<m46m]N=5?QOBa51
+R6
+R365
+R366
+R367
+!i113 1
+R10
+R11
+Erowend_x0
+R1
+32
+Z368 !s110 1476104103
+!i10b 1
+Z369 w1476104073
+R0
+Z370 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/rowend_x0.vhd
+Z371 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/rowend_x0.vhd
+l0
+L1
+VaJ[^[PiK06R>@1]l=;T5H3
+!s100 jbLO3PKaDagdkKXhecIIQ2
+R6
+Z372 !s108 1476104103.000000
+Z373 !s90 -reportprogress|300|-work|sxlib|-O0|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/rowend_x0.vhd|
+Z374 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/rowend_x0.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 9 rowend_x0 0 22 aJ[^[PiK06R>@1]l=;T5H3
+R1
+32
+R368
+!i10b 1
+l14
+L12
+V:81T;3=R5WVkfah5W:eCH3
+!s100 AVfLKQkdQXY:fbZ<FgYa_2
+R6
+R372
+R373
+R374
+!i113 1
+R10
+R11
+Esff1_x4
+R1
+32
+Z375 !s110 1476101958
+!i10b 1
+Z376 w1476101952
+R0
+Z377 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/sff1_x4.vhd
+Z378 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/sff1_x4.vhd
+l0
+L1
+V16a5obR_jz7ZDUX0DiH??3
+!s100 UAF26m56n4BG]1NV55U@U2
+R6
+Z379 !s108 1476101957.000000
+Z380 !s90 -reportprogress|300|-work|sxlib|-O0|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/sff1_x4.vhd|
+Z381 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/sff1_x4.vhd|
+!i113 1
+R10
+R11
+Avbe
+DEx4 work 7 sff1_x4 0 22 16a5obR_jz7ZDUX0DiH??3
+R1
+32
+R375
+!i10b 1
+l27
+L25
+Vk?;?1Y6`ZcUL]O^Ym?j>]3
+!s100 5NLeimUNFKlWi_`NDj[CT1
+R6
+R379
+R380
+R381
+!i113 1
+R10
+R11
+Esff2_x4
+R1
+32
+Z382 !s110 1476103407
+!i10b 1
+Z383 w1476103370
+R0
+Z384 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/sff2_x4.vhd
+Z385 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/sff2_x4.vhd
+l0
+L1
+VSn4leWXLK^c=m=hF3C95g2
+!s100 FJ1YB1aUmMi:E6a;V9bVA1
+R6
+Z386 !s108 1476103407.000000
+Z387 !s90 -reportprogress|300|-work|sxlib|-O0|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/sff2_x4.vhd|
+Z388 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/sff2_x4.vhd|
+!i113 1
+R10
+R11
+Avbe
+DEx4 work 7 sff2_x4 0 22 Sn4leWXLK^c=m=hF3C95g2
+R1
+32
+R382
+!i10b 1
+l39
+L37
+VLEPBMXcOoXYJn7;DzMNG_0
+!s100 ZeSj6RNjAMzOTHB22X6@=3
+R6
+R386
+R387
+R388
+!i113 1
+R10
+R11
+Esff3_x4
+R1
+32
+Z389 !s110 1476103411
+!i10b 1
+Z390 w1476103368
+R0
+Z391 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/sff3_x4.vhd
+Z392 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/sff3_x4.vhd
+l0
+L1
+VnadY7OaYX@=C::j3c>hUf3
+!s100 P9E13Q;JaEX_T@WgAH_1<1
+R6
+Z393 !s108 1476103411.000000
+Z394 !s90 -reportprogress|300|-work|sxlib|-O0|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/sff3_x4.vhd|
+Z395 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/sff3_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 7 sff3_x4 0 22 nadY7OaYX@=C::j3c>hUf3
+R1
+32
+R389
+!i10b 1
+l53
+L51
+V2EOdaM]GoWiXm1PDO=0;<2
+!s100 Jk]A0fELED>Ij[To1]Zf72
+R6
+R393
+R394
+R395
+!i113 1
+R10
+R11
+Etie_x0
+R1
+32
+Z396 !s110 1476104106
+!i10b 1
+Z397 w1476104092
+R0
+Z398 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/tie_x0.vhd
+Z399 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/tie_x0.vhd
+l0
+L1
+V1:WHX2XI09LC=;^XeMDeZ2
+!s100 I?eMol0hM7dkFniLciTYc2
+R6
+Z400 !s108 1476104106.000000
+Z401 !s90 -reportprogress|300|-work|sxlib|-O0|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/tie_x0.vhd|
+Z402 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/tie_x0.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 tie_x0 0 22 1:WHX2XI09LC=;^XeMDeZ2
+R1
+32
+R396
+!i10b 1
+l14
+L12
+VQ15=lEOKSaRWaj:L^f>3O2
+!s100 <UL0c@[2UB?;kI10WkmK91
+R6
+R400
+R401
+R402
+!i113 1
+R10
+R11
+Exr2_x1
+R1
+32
+Z403 !s110 1476100575
+!i10b 1
+R3
+R0
+Z404 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/xr2_x1.vhd
+Z405 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/xr2_x1.vhd
+l0
+L1
+VXBl]d9`=mGX[Tbz@S1>dn3
+!s100 d]e9NP2OCDLBV2:9hXa^@2
+R6
+Z406 !s108 1476100575.000000
+Z407 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/xr2_x1.vhd|
+Z408 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/xr2_x1.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 xr2_x1 0 22 XBl]d9`=mGX[Tbz@S1>dn3
+R1
+32
+R403
+!i10b 1
+l31
+L29
+VRVfhQ90A5f6O]`M;e6eBl0
+!s100 V<aQRaiI^6hE=2_faTW[Z2
+R6
+R406
+R407
+R408
+!i113 1
+R10
+R11
+Exr2_x4
+R1
+32
+R403
+!i10b 1
+R3
+R0
+Z409 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/xr2_x4.vhd
+Z410 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/xr2_x4.vhd
+l0
+L1
+VBM9c7HMF:=ajD6Fl5jjo92
+!s100 :SA]:m4IB5cEO`O]U5?3i2
+R6
+R406
+Z411 !s90 -reportprogress|300|-work|sxlib|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/xr2_x4.vhd|
+Z412 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/xr2_x4.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 6 xr2_x4 0 22 BM9c7HMF:=ajD6Fl5jjo92
+R1
+32
+R403
+!i10b 1
+l31
+L29
+VXQeD:98LlI]JSUKiIAPdM2
+!s100 HMo533^B]7YQT:bTMf_TJ2
+R6
+R406
+R411
+R412
+!i113 1
+R10
+R11
+Ezero_x0
+R1
+32
+Z413 !s110 1476104109
+!i10b 1
+Z414 w1476104039
+R0
+Z415 8C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/zero_x0.vhd
+Z416 FC:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/zero_x0.vhd
+l0
+L1
+V><j?_CRfUG[mZ8`4zTYzd2
+!s100 IDFSTj;DUW57deaQzKVM51
+R6
+Z417 !s108 1476104109.000000
+Z418 !s90 -reportprogress|300|-work|sxlib|-O0|C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/zero_x0.vhd|
+Z419 !s107 C:/Users/moham/Dropbox/Courses/1 CAD/Tools/Modelsim/Examples/sxlib-vhdl/zero_x0.vhd|
+!i113 1
+R10
+R11
+Abehaviour_data_flow
+DEx4 work 7 zero_x0 0 22 ><j?_CRfUG[mZ8`4zTYzd2
+R1
+32
+R413
+!i10b 1
+l15
+L13
+Va62D02B2B<N7FXVLQzdP>1
+!s100 m2O=fSI?OB1_5i1HTH?>K0
+R6
+R417
+R418
+R419
+!i113 1
+R10
+R11

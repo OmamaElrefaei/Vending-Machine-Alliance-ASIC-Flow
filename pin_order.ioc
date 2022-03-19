@@ -1,0 +1,26 @@
+LEFT ( #IOs from bottom to top 
+(IOPIN test.0);
+(IOPIN scanout.0);
+(IOPIN scanin.0); 
+)
+
+TOP ( #IOs from left to right 
+(IOPIN drink(0).0);
+(IOPIN drink(1).0);
+(IOPIN change25.0);
+(IOPIN change50.0);
+(IOPIN change100.0); 
+)
+
+RIGHT ( #IOs from bottom to top 
+(IOPIN ck.0);
+(IOPIN reset.0);
+)
+
+BOTTOM ( #IOs from left to right 
+(IOPIN piasters(0).0);
+(IOPIN piasters(1).0);
+(IOPIN soft_drink.0);
+(IOPIN juice.0);
+(IOPIN cancel.0);
+)

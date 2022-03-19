@@ -1,0 +1,14 @@
+west( #from bottom to top 
+p_test p_scanout p_vdde p_scanin)
+
+north( #from left to right 
+p_drink0 p_drink1 p_vddi p_change25 p_change50 p_change100)
+
+east( #from bottom to top 
+p_ck p_vsse p_reset)
+
+south( #from left to right 
+p_piasters0 p_piasters1 p_vssick p_soft_drink p_juice p_cancel)
+
+width( #vdd and vss ring track width
+vss 100 vdd 100)  
